@@ -1,0 +1,1263 @@
+[Sun Oct 06 18:52:14.273686 2024] [mpm_winnt:notice] [pid 1336:tid 696] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 06 18:52:14.273686 2024] [mpm_winnt:notice] [pid 1336:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 06 18:52:14.273686 2024] [core:notice] [pid 1336:tid 696] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 06 18:52:14.273686 2024] [mpm_winnt:notice] [pid 1336:tid 696] AH00418: Parent: Created child process 4636
+[Sun Oct 06 18:52:14.554845 2024] [mpm_winnt:notice] [pid 4636:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 06 20:29:36.950762 2024] [mpm_winnt:notice] [pid 1336:tid 696] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 06 20:29:38.966283 2024] [mpm_winnt:notice] [pid 4636:tid 664] AH00364: Child: All worker threads have exited.
+[Sun Oct 06 20:29:38.997526 2024] [mpm_winnt:notice] [pid 1336:tid 696] AH00430: Parent: Child process 4636 exited successfully.
+[Mon Oct 07 20:00:35.420768 2024] [mpm_winnt:notice] [pid 3640:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Oct 07 20:00:35.420768 2024] [mpm_winnt:notice] [pid 3640:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Oct 07 20:00:35.420768 2024] [core:notice] [pid 3640:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Oct 07 20:00:35.420768 2024] [mpm_winnt:notice] [pid 3640:tid 708] AH00418: Parent: Created child process 5700
+[Mon Oct 07 20:00:36.420532 2024] [mpm_winnt:notice] [pid 5700:tid 664] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 19:41:26.217625 2024] [core:warn] [pid 3792:tid 440] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 08 19:41:28.780013 2024] [mpm_winnt:notice] [pid 3792:tid 440] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Oct 08 19:41:28.780013 2024] [mpm_winnt:notice] [pid 3792:tid 440] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Oct 08 19:41:28.780013 2024] [core:notice] [pid 3792:tid 440] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Oct 08 19:41:28.780013 2024] [mpm_winnt:notice] [pid 3792:tid 440] AH00418: Parent: Created child process 3640
+[Tue Oct 08 19:41:29.670429 2024] [mpm_winnt:notice] [pid 3640:tid 656] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 21:32:56.580216 2024] [mpm_winnt:notice] [pid 3792:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 21:32:58.586240 2024] [mpm_winnt:notice] [pid 3640:tid 656] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 21:32:58.601953 2024] [mpm_winnt:notice] [pid 3792:tid 440] AH00430: Parent: Child process 3640 exited successfully.
+[Wed Oct 09 06:33:39.967378 2024] [mpm_winnt:notice] [pid 3964:tid 720] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Oct 09 06:33:39.967378 2024] [mpm_winnt:notice] [pid 3964:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 09 06:33:39.967378 2024] [core:notice] [pid 3964:tid 720] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Oct 09 06:33:39.967378 2024] [mpm_winnt:notice] [pid 3964:tid 720] AH00418: Parent: Created child process 5820
+[Wed Oct 09 06:33:40.935895 2024] [mpm_winnt:notice] [pid 5820:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 06:33:52.666760 2024] [mpm_winnt:notice] [pid 3964:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 06:33:54.697755 2024] [mpm_winnt:notice] [pid 5820:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 06:33:54.728998 2024] [mpm_winnt:notice] [pid 3964:tid 720] AH00430: Parent: Child process 5820 exited successfully.
+[Wed Oct 09 06:34:44.686966 2024] [mpm_winnt:notice] [pid 3956:tid 704] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Oct 09 06:34:44.686966 2024] [mpm_winnt:notice] [pid 3956:tid 704] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 09 06:34:44.686966 2024] [core:notice] [pid 3956:tid 704] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Oct 09 06:34:44.686966 2024] [mpm_winnt:notice] [pid 3956:tid 704] AH00418: Parent: Created child process 5800
+[Wed Oct 09 06:34:45.468005 2024] [mpm_winnt:notice] [pid 5800:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 07:29:25.359371 2024] [mpm_winnt:notice] [pid 3956:tid 704] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 07:29:27.368193 2024] [mpm_winnt:notice] [pid 5800:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 07:29:27.399544 2024] [mpm_winnt:notice] [pid 3956:tid 704] AH00430: Parent: Child process 5800 exited successfully.
+[Wed Oct 09 21:00:13.503654 2024] [mpm_winnt:notice] [pid 4092:tid 676] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Oct 09 21:00:13.519282 2024] [mpm_winnt:notice] [pid 4092:tid 676] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 09 21:00:13.519282 2024] [core:notice] [pid 4092:tid 676] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Oct 09 21:00:13.519282 2024] [mpm_winnt:notice] [pid 4092:tid 676] AH00418: Parent: Created child process 5936
+[Wed Oct 09 21:00:15.503162 2024] [mpm_winnt:notice] [pid 5936:tid 684] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 22:23:05.285467 2024] [mpm_winnt:notice] [pid 4092:tid 676] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 22:23:07.302271 2024] [mpm_winnt:notice] [pid 5936:tid 684] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 22:23:07.333511 2024] [mpm_winnt:notice] [pid 4092:tid 676] AH00430: Parent: Child process 5936 exited successfully.
+[Thu Oct 10 20:50:53.331127 2024] [mpm_winnt:notice] [pid 1736:tid 760] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Oct 10 20:50:53.346689 2024] [mpm_winnt:notice] [pid 1736:tid 760] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Oct 10 20:50:53.346689 2024] [core:notice] [pid 1736:tid 760] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Oct 10 20:50:53.346689 2024] [mpm_winnt:notice] [pid 1736:tid 760] AH00418: Parent: Created child process 6064
+[Thu Oct 10 20:50:53.940267 2024] [mpm_winnt:notice] [pid 6064:tid 656] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 23:26:04.140639 2024] [mpm_winnt:notice] [pid 1736:tid 760] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 23:26:06.159442 2024] [mpm_winnt:notice] [pid 6064:tid 656] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 23:26:06.190680 2024] [mpm_winnt:notice] [pid 1736:tid 760] AH00430: Parent: Child process 6064 exited successfully.
+[Fri Oct 11 20:16:35.069313 2024] [mpm_winnt:notice] [pid 3920:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Oct 11 20:16:35.163130 2024] [mpm_winnt:notice] [pid 3920:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Oct 11 20:16:35.163130 2024] [core:notice] [pid 3920:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Oct 11 20:16:35.163130 2024] [mpm_winnt:notice] [pid 3920:tid 708] AH00418: Parent: Created child process 5620
+[Fri Oct 11 20:16:35.616059 2024] [mpm_winnt:notice] [pid 5620:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 11 23:42:39.996592 2024] [mpm_winnt:notice] [pid 3920:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 11 23:42:42.001778 2024] [mpm_winnt:notice] [pid 5620:tid 664] AH00364: Child: All worker threads have exited.
+[Fri Oct 11 23:42:42.017400 2024] [mpm_winnt:notice] [pid 3920:tid 708] AH00430: Parent: Child process 5620 exited successfully.
+[Fri Oct 11 23:43:42.254254 2024] [mpm_winnt:notice] [pid 3820:tid 668] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Oct 11 23:43:42.254254 2024] [mpm_winnt:notice] [pid 3820:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Oct 11 23:43:42.254254 2024] [core:notice] [pid 3820:tid 668] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Oct 11 23:43:42.269876 2024] [mpm_winnt:notice] [pid 3820:tid 668] AH00418: Parent: Created child process 5684
+[Fri Oct 11 23:43:45.550384 2024] [mpm_winnt:notice] [pid 5684:tid 580] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 11 23:44:19.606375 2024] [mpm_winnt:notice] [pid 3820:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 11 23:44:21.640584 2024] [mpm_winnt:notice] [pid 5684:tid 580] AH00364: Child: All worker threads have exited.
+[Fri Oct 11 23:44:21.671743 2024] [mpm_winnt:notice] [pid 3820:tid 668] AH00430: Parent: Child process 5684 exited successfully.
+[Sun Oct 13 08:37:09.820171 2024] [mpm_winnt:notice] [pid 4044:tid 696] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 13 08:37:09.820171 2024] [mpm_winnt:notice] [pid 4044:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 13 08:37:09.820171 2024] [core:notice] [pid 4044:tid 696] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 13 08:37:09.835815 2024] [mpm_winnt:notice] [pid 4044:tid 696] AH00418: Parent: Created child process 6060
+[Sun Oct 13 08:37:10.851178 2024] [mpm_winnt:notice] [pid 6060:tid 648] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 13 16:37:50.251232 2024] [core:warn] [pid 4340:tid 600] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 13 16:37:54.984726 2024] [mpm_winnt:notice] [pid 4340:tid 600] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 13 16:37:54.984726 2024] [mpm_winnt:notice] [pid 4340:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 13 16:37:54.984726 2024] [core:notice] [pid 4340:tid 600] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 13 16:37:54.984726 2024] [mpm_winnt:notice] [pid 4340:tid 600] AH00418: Parent: Created child process 6200
+[Sun Oct 13 16:38:00.186625 2024] [mpm_winnt:notice] [pid 6200:tid 692] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 13 20:21:37.762675 2024] [mpm_winnt:notice] [pid 4340:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 13 20:21:39.792473 2024] [mpm_winnt:notice] [pid 6200:tid 692] AH00364: Child: All worker threads have exited.
+[Sun Oct 13 20:21:39.870765 2024] [mpm_winnt:notice] [pid 4340:tid 600] AH00430: Parent: Child process 6200 exited successfully.
+[Mon Oct 14 20:42:19.206639 2024] [mpm_winnt:notice] [pid 4044:tid 732] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Oct 14 20:42:19.206639 2024] [mpm_winnt:notice] [pid 4044:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Oct 14 20:42:19.206639 2024] [core:notice] [pid 4044:tid 732] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Oct 14 20:42:19.206639 2024] [mpm_winnt:notice] [pid 4044:tid 732] AH00418: Parent: Created child process 5948
+[Mon Oct 14 20:42:26.595497 2024] [mpm_winnt:notice] [pid 5948:tid 700] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 18 07:38:30.368401 2024] [mpm_winnt:notice] [pid 4044:tid 732] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 18 07:38:32.399163 2024] [mpm_winnt:notice] [pid 5948:tid 700] AH00364: Child: All worker threads have exited.
+[Fri Oct 18 07:38:32.430311 2024] [mpm_winnt:notice] [pid 4044:tid 732] AH00430: Parent: Child process 5948 exited successfully.
+[Fri Oct 18 07:39:00.956630 2024] [mpm_winnt:notice] [pid 3984:tid 560] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Oct 18 07:39:01.003573 2024] [mpm_winnt:notice] [pid 3984:tid 560] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Oct 18 07:39:01.003573 2024] [core:notice] [pid 3984:tid 560] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Oct 18 07:39:01.003573 2024] [mpm_winnt:notice] [pid 3984:tid 560] AH00418: Parent: Created child process 3808
+[Fri Oct 18 07:39:01.581482 2024] [mpm_winnt:notice] [pid 3808:tid 708] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 19 16:00:42.644073 2024] [core:warn] [pid 3916:tid 672] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 19 16:00:43.268925 2024] [mpm_winnt:notice] [pid 3916:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Oct 19 16:00:43.268925 2024] [mpm_winnt:notice] [pid 3916:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Oct 19 16:00:43.268925 2024] [core:notice] [pid 3916:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Oct 19 16:00:43.268925 2024] [mpm_winnt:notice] [pid 3916:tid 672] AH00418: Parent: Created child process 5700
+[Sat Oct 19 16:00:43.815688 2024] [mpm_winnt:notice] [pid 5700:tid 732] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 19 21:42:27.403761 2024] [mpm_winnt:notice] [pid 3916:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 19 21:42:29.434207 2024] [mpm_winnt:notice] [pid 5700:tid 732] AH00364: Child: All worker threads have exited.
+[Sat Oct 19 21:42:29.512409 2024] [mpm_winnt:notice] [pid 3916:tid 672] AH00430: Parent: Child process 5700 exited successfully.
+[Sun Oct 20 08:23:01.574358 2024] [mpm_winnt:notice] [pid 3872:tid 568] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 20 08:23:01.589951 2024] [mpm_winnt:notice] [pid 3872:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 20 08:23:01.589951 2024] [core:notice] [pid 3872:tid 568] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 20 08:23:01.589951 2024] [mpm_winnt:notice] [pid 3872:tid 568] AH00418: Parent: Created child process 5904
+[Sun Oct 20 08:23:02.105478 2024] [mpm_winnt:notice] [pid 5904:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 20 17:18:43.844301 2024] [mpm_winnt:notice] [pid 3872:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 20 17:18:45.855586 2024] [mpm_winnt:notice] [pid 5904:tid 656] AH00364: Child: All worker threads have exited.
+[Sun Oct 20 17:18:45.871299 2024] [mpm_winnt:notice] [pid 3872:tid 568] AH00430: Parent: Child process 5904 exited successfully.
+[Sun Oct 20 19:50:25.178512 2024] [mpm_winnt:notice] [pid 4004:tid 728] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 20 19:50:25.194125 2024] [mpm_winnt:notice] [pid 4004:tid 728] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 20 19:50:25.194125 2024] [core:notice] [pid 4004:tid 728] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 20 19:50:26.646827 2024] [mpm_winnt:notice] [pid 4004:tid 728] AH00418: Parent: Created child process 6096
+[Sun Oct 20 19:50:31.848736 2024] [mpm_winnt:notice] [pid 6096:tid 688] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 20 21:57:56.021171 2024] [mpm_winnt:notice] [pid 4004:tid 728] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 20 21:57:58.042731 2024] [mpm_winnt:notice] [pid 6096:tid 688] AH00364: Child: All worker threads have exited.
+[Sun Oct 20 21:57:58.073974 2024] [mpm_winnt:notice] [pid 4004:tid 728] AH00430: Parent: Child process 6096 exited successfully.
+[Tue Oct 22 20:55:39.103120 2024] [mpm_winnt:notice] [pid 4024:tid 676] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Oct 22 20:55:39.103120 2024] [mpm_winnt:notice] [pid 4024:tid 676] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Oct 22 20:55:39.103120 2024] [core:notice] [pid 4024:tid 676] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Oct 22 20:55:39.196833 2024] [mpm_winnt:notice] [pid 4024:tid 676] AH00418: Parent: Created child process 7016
+[Tue Oct 22 20:55:40.587130 2024] [mpm_winnt:notice] [pid 7016:tid 612] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 23 20:44:37.010093 2024] [core:warn] [pid 3936:tid 608] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 23 20:44:38.384777 2024] [mpm_winnt:notice] [pid 3936:tid 608] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Oct 23 20:44:38.384777 2024] [mpm_winnt:notice] [pid 3936:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Oct 23 20:44:38.384777 2024] [core:notice] [pid 3936:tid 608] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Oct 23 20:44:38.384777 2024] [mpm_winnt:notice] [pid 3936:tid 608] AH00418: Parent: Created child process 5672
+[Wed Oct 23 20:44:38.759715 2024] [mpm_winnt:notice] [pid 5672:tid 652] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 24 00:29:57.223677 2024] [mpm_winnt:notice] [pid 3936:tid 608] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 24 00:29:59.251398 2024] [mpm_winnt:notice] [pid 5672:tid 652] AH00364: Child: All worker threads have exited.
+[Thu Oct 24 00:29:59.267012 2024] [mpm_winnt:notice] [pid 3936:tid 608] AH00430: Parent: Child process 5672 exited successfully.
+[Thu Oct 24 07:07:24.293676 2024] [mpm_winnt:notice] [pid 1944:tid 724] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Oct 24 07:07:24.293676 2024] [mpm_winnt:notice] [pid 1944:tid 724] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Oct 24 07:07:24.293676 2024] [core:notice] [pid 1944:tid 724] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Oct 24 07:07:24.293676 2024] [mpm_winnt:notice] [pid 1944:tid 724] AH00418: Parent: Created child process 5540
+[Thu Oct 24 07:07:36.197044 2024] [mpm_winnt:notice] [pid 5540:tid 648] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 24 07:35:59.368269 2024] [mpm_winnt:notice] [pid 1944:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 24 07:36:01.387090 2024] [mpm_winnt:notice] [pid 5540:tid 648] AH00364: Child: All worker threads have exited.
+[Thu Oct 24 07:36:01.418331 2024] [mpm_winnt:notice] [pid 1944:tid 724] AH00430: Parent: Child process 5540 exited successfully.
+[Sat Oct 26 20:24:15.106780 2024] [mpm_winnt:notice] [pid 4100:tid 544] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Oct 26 20:24:15.106780 2024] [mpm_winnt:notice] [pid 4100:tid 544] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Oct 26 20:24:15.106780 2024] [core:notice] [pid 4100:tid 544] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Oct 26 20:24:15.106780 2024] [mpm_winnt:notice] [pid 4100:tid 544] AH00418: Parent: Created child process 6116
+[Sat Oct 26 20:24:22.042654 2024] [mpm_winnt:notice] [pid 6116:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 26 22:49:11.093035 2024] [mpm_winnt:notice] [pid 4100:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 26 22:49:13.122271 2024] [mpm_winnt:notice] [pid 6116:tid 656] AH00364: Child: All worker threads have exited.
+[Sat Oct 26 22:49:13.200465 2024] [mpm_winnt:notice] [pid 4100:tid 544] AH00430: Parent: Child process 6116 exited successfully.
+[Sun Oct 27 08:13:01.102775 2024] [mpm_winnt:notice] [pid 4216:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 27 08:13:01.102775 2024] [mpm_winnt:notice] [pid 4216:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 27 08:13:01.102775 2024] [core:notice] [pid 4216:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 27 08:13:01.102775 2024] [mpm_winnt:notice] [pid 4216:tid 708] AH00418: Parent: Created child process 5840
+[Sun Oct 27 08:13:12.945875 2024] [mpm_winnt:notice] [pid 5840:tid 508] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 27 16:25:43.569020 2024] [mpm_winnt:notice] [pid 4216:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 27 16:25:45.664840 2024] [mpm_winnt:notice] [pid 5840:tid 508] AH00364: Child: All worker threads have exited.
+[Sun Oct 27 16:25:45.727326 2024] [mpm_winnt:notice] [pid 4216:tid 708] AH00430: Parent: Child process 5840 exited successfully.
+[Sun Oct 27 20:52:36.138068 2024] [mpm_winnt:notice] [pid 4020:tid 564] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Oct 27 20:52:36.138068 2024] [mpm_winnt:notice] [pid 4020:tid 564] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Oct 27 20:52:36.138068 2024] [core:notice] [pid 4020:tid 564] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Oct 27 20:52:36.184840 2024] [mpm_winnt:notice] [pid 4020:tid 564] AH00418: Parent: Created child process 6288
+[Sun Oct 27 20:52:41.058823 2024] [mpm_winnt:notice] [pid 6288:tid 668] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 27 22:10:51.956645 2024] [mpm_winnt:notice] [pid 4020:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 27 22:10:53.962366 2024] [mpm_winnt:notice] [pid 6288:tid 668] AH00364: Child: All worker threads have exited.
+[Sun Oct 27 22:10:54.009226 2024] [mpm_winnt:notice] [pid 4020:tid 564] AH00430: Parent: Child process 6288 exited successfully.
+[Mon Oct 28 21:06:57.560617 2024] [mpm_winnt:notice] [pid 4220:tid 652] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Oct 28 21:06:57.794937 2024] [mpm_winnt:notice] [pid 4220:tid 652] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Oct 28 21:06:57.794937 2024] [core:notice] [pid 4220:tid 652] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Oct 28 21:06:57.794937 2024] [mpm_winnt:notice] [pid 4220:tid 652] AH00418: Parent: Created child process 7960
+[Mon Oct 28 21:06:59.200859 2024] [mpm_winnt:notice] [pid 7960:tid 728] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 28 22:34:23.353698 2024] [mpm_winnt:notice] [pid 4220:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 28 22:34:25.366134 2024] [mpm_winnt:notice] [pid 7960:tid 728] AH00364: Child: All worker threads have exited.
+[Mon Oct 28 22:34:25.397380 2024] [mpm_winnt:notice] [pid 4220:tid 652] AH00430: Parent: Child process 7960 exited successfully.
+[Tue Oct 29 20:59:25.694427 2024] [mpm_winnt:notice] [pid 4204:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Oct 29 20:59:25.694427 2024] [mpm_winnt:notice] [pid 4204:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Oct 29 20:59:25.694427 2024] [core:notice] [pid 4204:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Oct 29 20:59:25.710047 2024] [mpm_winnt:notice] [pid 4204:tid 708] AH00418: Parent: Created child process 5044
+[Tue Oct 29 20:59:26.256795 2024] [mpm_winnt:notice] [pid 5044:tid 652] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 31 20:53:44.229991 2024] [core:warn] [pid 3860:tid 596] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 31 20:53:45.229757 2024] [mpm_winnt:notice] [pid 3860:tid 596] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Oct 31 20:53:45.229757 2024] [mpm_winnt:notice] [pid 3860:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Oct 31 20:53:45.229757 2024] [core:notice] [pid 3860:tid 596] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Oct 31 20:53:45.229757 2024] [mpm_winnt:notice] [pid 3860:tid 596] AH00418: Parent: Created child process 1252
+[Thu Oct 31 20:53:56.820862 2024] [mpm_winnt:notice] [pid 1252:tid 676] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 31 21:07:04.972327 2024] [core:warn] [pid 3720:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 31 21:07:10.408534 2024] [mpm_winnt:notice] [pid 3720:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Oct 31 21:07:10.408534 2024] [mpm_winnt:notice] [pid 3720:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Oct 31 21:07:10.408534 2024] [core:notice] [pid 3720:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Oct 31 21:07:10.424156 2024] [mpm_winnt:notice] [pid 3720:tid 620] AH00418: Parent: Created child process 5936
+[Thu Oct 31 21:07:13.720287 2024] [mpm_winnt:notice] [pid 5936:tid 652] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 31 21:15:28.000380 2024] [core:warn] [pid 4064:tid 640] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 31 21:15:28.722520 2024] [mpm_winnt:notice] [pid 4064:tid 640] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Oct 31 21:15:28.722520 2024] [mpm_winnt:notice] [pid 4064:tid 640] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Oct 31 21:15:28.722520 2024] [core:notice] [pid 4064:tid 640] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Oct 31 21:15:28.722520 2024] [mpm_winnt:notice] [pid 4064:tid 640] AH00418: Parent: Created child process 5600
+[Thu Oct 31 21:15:30.133047 2024] [mpm_winnt:notice] [pid 5600:tid 668] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 01 23:32:16.287109 2024] [mpm_winnt:notice] [pid 4064:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 01 23:32:18.316970 2024] [mpm_winnt:notice] [pid 5600:tid 668] AH00364: Child: All worker threads have exited.
+[Fri Nov 01 23:32:18.363925 2024] [mpm_winnt:notice] [pid 4064:tid 640] AH00430: Parent: Child process 5600 exited successfully.
+[Sun Nov 03 09:35:21.437074 2024] [mpm_winnt:notice] [pid 4224:tid 648] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Nov 03 09:35:21.437074 2024] [mpm_winnt:notice] [pid 4224:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 03 09:35:21.437074 2024] [core:notice] [pid 4224:tid 648] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Nov 03 09:35:21.437074 2024] [mpm_winnt:notice] [pid 4224:tid 648] AH00418: Parent: Created child process 6032
+[Sun Nov 03 09:35:22.186843 2024] [mpm_winnt:notice] [pid 6032:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 04 21:30:46.421891 2024] [mpm_winnt:notice] [pid 4224:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 04 21:30:48.449362 2024] [mpm_winnt:notice] [pid 6032:tid 656] AH00364: Child: All worker threads have exited.
+[Mon Nov 04 21:30:48.715016 2024] [mpm_winnt:notice] [pid 4224:tid 648] AH00430: Parent: Child process 6032 exited successfully.
+[Tue Nov 05 20:08:32.340130 2024] [mpm_winnt:notice] [pid 4236:tid 688] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Nov 05 20:08:32.355751 2024] [mpm_winnt:notice] [pid 4236:tid 688] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 05 20:08:32.355751 2024] [core:notice] [pid 4236:tid 688] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Nov 05 20:08:32.371372 2024] [mpm_winnt:notice] [pid 4236:tid 688] AH00418: Parent: Created child process 6584
+[Tue Nov 05 20:08:35.526880 2024] [mpm_winnt:notice] [pid 6584:tid 712] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 06 07:16:43.353016 2024] [mpm_winnt:notice] [pid 4236:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 06 07:16:45.374318 2024] [mpm_winnt:notice] [pid 6584:tid 712] AH00364: Child: All worker threads have exited.
+[Wed Nov 06 07:16:45.561870 2024] [mpm_winnt:notice] [pid 4236:tid 688] AH00430: Parent: Child process 6584 exited successfully.
+[Wed Nov 06 22:16:27.709351 2024] [mpm_winnt:notice] [pid 3224:tid 684] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Nov 06 22:16:27.756125 2024] [mpm_winnt:notice] [pid 3224:tid 684] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 06 22:16:27.756125 2024] [core:notice] [pid 3224:tid 684] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Nov 06 22:16:27.771746 2024] [mpm_winnt:notice] [pid 3224:tid 684] AH00418: Parent: Created child process 6004
+[Wed Nov 06 22:16:40.987391 2024] [mpm_winnt:notice] [pid 6004:tid 656] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 06 23:56:02.995666 2024] [mpm_winnt:notice] [pid 3224:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 06 23:56:05.017996 2024] [mpm_winnt:notice] [pid 6004:tid 656] AH00364: Child: All worker threads have exited.
+[Wed Nov 06 23:56:05.049239 2024] [mpm_winnt:notice] [pid 3224:tid 684] AH00430: Parent: Child process 6004 exited successfully.
+[Thu Nov 07 20:54:02.118752 2024] [mpm_winnt:notice] [pid 4188:tid 776] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Nov 07 20:54:02.118752 2024] [mpm_winnt:notice] [pid 4188:tid 776] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 07 20:54:02.118752 2024] [core:notice] [pid 4188:tid 776] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Nov 07 20:54:02.134372 2024] [mpm_winnt:notice] [pid 4188:tid 776] AH00418: Parent: Created child process 6312
+[Thu Nov 07 20:54:06.492721 2024] [mpm_winnt:notice] [pid 6312:tid 668] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 08 00:33:31.653428 2024] [mpm_winnt:notice] [pid 4188:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 08 00:33:33.686302 2024] [mpm_winnt:notice] [pid 6312:tid 668] AH00364: Child: All worker threads have exited.
+[Fri Nov 08 00:33:33.717545 2024] [mpm_winnt:notice] [pid 4188:tid 776] AH00430: Parent: Child process 6312 exited successfully.
+[Sat Nov 09 23:52:57.972663 2024] [mpm_winnt:notice] [pid 3820:tid 720] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Nov 09 23:52:57.988284 2024] [mpm_winnt:notice] [pid 3820:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 09 23:52:57.988284 2024] [core:notice] [pid 3820:tid 720] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Nov 09 23:52:57.988284 2024] [mpm_winnt:notice] [pid 3820:tid 720] AH00418: Parent: Created child process 2604
+[Sat Nov 09 23:53:03.393282 2024] [mpm_winnt:notice] [pid 2604:tid 740] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 10 09:51:48.759109 2024] [mpm_winnt:notice] [pid 3820:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 10 09:51:50.893144 2024] [mpm_winnt:notice] [pid 2604:tid 740] AH00364: Child: All worker threads have exited.
+[Sun Nov 10 09:51:51.174239 2024] [mpm_winnt:notice] [pid 3820:tid 720] AH00430: Parent: Child process 2604 exited successfully.
+[Sun Nov 10 12:50:57.819845 2024] [mpm_winnt:notice] [pid 4140:tid 760] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Nov 10 12:50:57.819845 2024] [mpm_winnt:notice] [pid 4140:tid 760] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 10 12:50:57.819845 2024] [core:notice] [pid 4140:tid 760] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Nov 10 12:50:57.819845 2024] [mpm_winnt:notice] [pid 4140:tid 760] AH00418: Parent: Created child process 6024
+[Sun Nov 10 12:50:58.319728 2024] [mpm_winnt:notice] [pid 6024:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 10 18:36:11.798413 2024] [mpm_winnt:notice] [pid 4140:tid 760] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 10 18:36:13.803467 2024] [mpm_winnt:notice] [pid 6024:tid 652] AH00364: Child: All worker threads have exited.
+[Sun Nov 10 18:36:13.834710 2024] [mpm_winnt:notice] [pid 4140:tid 760] AH00430: Parent: Child process 6024 exited successfully.
+[Sun Nov 10 20:36:57.046497 2024] [mpm_winnt:notice] [pid 4264:tid 716] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Nov 10 20:36:57.046497 2024] [mpm_winnt:notice] [pid 4264:tid 716] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 10 20:36:57.046497 2024] [core:notice] [pid 4264:tid 716] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Nov 10 20:36:57.062119 2024] [mpm_winnt:notice] [pid 4264:tid 716] AH00418: Parent: Created child process 1448
+[Sun Nov 10 20:36:57.468273 2024] [mpm_winnt:notice] [pid 1448:tid 536] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 10 22:01:49.109894 2024] [mpm_winnt:notice] [pid 4264:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 10 22:01:51.134767 2024] [mpm_winnt:notice] [pid 1448:tid 536] AH00364: Child: All worker threads have exited.
+[Sun Nov 10 22:01:51.150388 2024] [mpm_winnt:notice] [pid 4264:tid 716] AH00430: Parent: Child process 1448 exited successfully.
+[Tue Nov 12 06:39:46.818241 2024] [mpm_winnt:notice] [pid 4192:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Nov 12 06:39:46.833833 2024] [mpm_winnt:notice] [pid 4192:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Nov 12 06:39:46.833833 2024] [core:notice] [pid 4192:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Nov 12 06:39:46.849455 2024] [mpm_winnt:notice] [pid 4192:tid 612] AH00418: Parent: Created child process 6280
+[Tue Nov 12 06:39:55.003790 2024] [mpm_winnt:notice] [pid 6280:tid 656] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 22 06:51:59.201435 2024] [mpm_winnt:notice] [pid 4192:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 22 06:52:01.228981 2024] [mpm_winnt:notice] [pid 6280:tid 656] AH00364: Child: All worker threads have exited.
+[Fri Nov 22 06:52:01.416549 2024] [mpm_winnt:notice] [pid 4192:tid 612] AH00430: Parent: Child process 6280 exited successfully.
+[Sat Nov 23 05:36:46.950178 2024] [mpm_winnt:notice] [pid 4292:tid 692] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Nov 23 05:36:46.950178 2024] [mpm_winnt:notice] [pid 4292:tid 692] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 23 05:36:46.950178 2024] [core:notice] [pid 4292:tid 692] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Nov 23 05:36:46.950178 2024] [mpm_winnt:notice] [pid 4292:tid 692] AH00418: Parent: Created child process 3916
+[Sat Nov 23 05:36:56.292699 2024] [mpm_winnt:notice] [pid 3916:tid 600] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 23 08:31:00.668097 2024] [mpm_winnt:notice] [pid 4292:tid 692] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 23 08:31:02.684273 2024] [mpm_winnt:notice] [pid 3916:tid 600] AH00364: Child: All worker threads have exited.
+[Sat Nov 23 08:31:02.699894 2024] [mpm_winnt:notice] [pid 4292:tid 692] AH00430: Parent: Child process 3916 exited successfully.
+[Sat Nov 23 22:38:28.967153 2024] [mpm_winnt:notice] [pid 3868:tid 704] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Nov 23 22:38:28.967153 2024] [mpm_winnt:notice] [pid 3868:tid 704] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 23 22:38:28.967153 2024] [core:notice] [pid 3868:tid 704] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Nov 23 22:38:28.982775 2024] [mpm_winnt:notice] [pid 3868:tid 704] AH00418: Parent: Created child process 2728
+[Sat Nov 23 22:38:32.481950 2024] [mpm_winnt:notice] [pid 2728:tid 676] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 23 23:08:27.391541 2024] [mpm_winnt:notice] [pid 3868:tid 704] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 23 23:08:29.403705 2024] [mpm_winnt:notice] [pid 2728:tid 676] AH00364: Child: All worker threads have exited.
+[Sat Nov 23 23:08:29.434948 2024] [mpm_winnt:notice] [pid 3868:tid 704] AH00430: Parent: Child process 2728 exited successfully.
+[Sun Nov 24 09:05:30.544965 2024] [mpm_winnt:notice] [pid 4260:tid 712] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Nov 24 09:05:30.544965 2024] [mpm_winnt:notice] [pid 4260:tid 712] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Nov 24 09:05:30.544965 2024] [core:notice] [pid 4260:tid 712] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Nov 24 09:05:30.560557 2024] [mpm_winnt:notice] [pid 4260:tid 712] AH00418: Parent: Created child process 6032
+[Sun Nov 24 09:05:31.779021 2024] [mpm_winnt:notice] [pid 6032:tid 672] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 24 21:18:25.291419 2024] [mpm_winnt:notice] [pid 4260:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Nov 24 21:18:27.306664 2024] [mpm_winnt:notice] [pid 6032:tid 672] AH00364: Child: All worker threads have exited.
+[Sun Nov 24 21:18:27.322380 2024] [mpm_winnt:notice] [pid 4260:tid 712] AH00430: Parent: Child process 6032 exited successfully.
+[Wed Nov 27 20:29:53.439288 2024] [mpm_winnt:notice] [pid 3148:tid 732] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Nov 27 20:29:53.486152 2024] [mpm_winnt:notice] [pid 3148:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Nov 27 20:29:53.486152 2024] [core:notice] [pid 3148:tid 732] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Nov 27 20:29:53.486152 2024] [mpm_winnt:notice] [pid 3148:tid 732] AH00418: Parent: Created child process 5976
+[Wed Nov 27 20:29:54.251596 2024] [mpm_winnt:notice] [pid 5976:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 28 07:43:30.314366 2024] [mpm_winnt:notice] [pid 3148:tid 732] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 28 07:43:32.338967 2024] [mpm_winnt:notice] [pid 5976:tid 660] AH00364: Child: All worker threads have exited.
+[Thu Nov 28 07:43:32.385778 2024] [mpm_winnt:notice] [pid 3148:tid 732] AH00430: Parent: Child process 5976 exited successfully.
+[Thu Nov 28 21:04:09.301211 2024] [mpm_winnt:notice] [pid 3872:tid 684] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Nov 28 21:04:09.379408 2024] [mpm_winnt:notice] [pid 3872:tid 684] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 28 21:04:09.379408 2024] [core:notice] [pid 3872:tid 684] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Nov 28 21:04:09.379408 2024] [mpm_winnt:notice] [pid 3872:tid 684] AH00418: Parent: Created child process 5980
+[Thu Nov 28 21:04:10.769618 2024] [mpm_winnt:notice] [pid 5980:tid 520] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 28 21:22:16.580127 2024] [core:warn] [pid 1840:tid 584] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 28 21:22:18.361172 2024] [mpm_winnt:notice] [pid 1840:tid 584] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Nov 28 21:22:18.361172 2024] [mpm_winnt:notice] [pid 1840:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Nov 28 21:22:18.361172 2024] [core:notice] [pid 1840:tid 584] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Nov 28 21:22:18.361172 2024] [mpm_winnt:notice] [pid 1840:tid 584] AH00418: Parent: Created child process 1264
+[Thu Nov 28 21:22:19.470372 2024] [mpm_winnt:notice] [pid 1264:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 29 03:15:17.264887 2024] [mpm_winnt:notice] [pid 1840:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 29 03:15:19.293191 2024] [mpm_winnt:notice] [pid 1264:tid 664] AH00364: Child: All worker threads have exited.
+[Fri Nov 29 03:15:19.574374 2024] [mpm_winnt:notice] [pid 1840:tid 584] AH00430: Parent: Child process 1264 exited successfully.
+[Fri Nov 29 06:46:50.374800 2024] [mpm_winnt:notice] [pid 4048:tid 716] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Nov 29 06:46:50.421720 2024] [mpm_winnt:notice] [pid 4048:tid 716] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 29 06:46:50.421720 2024] [core:notice] [pid 4048:tid 716] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Nov 29 06:46:50.421720 2024] [mpm_winnt:notice] [pid 4048:tid 716] AH00418: Parent: Created child process 3648
+[Fri Nov 29 06:46:56.498332 2024] [mpm_winnt:notice] [pid 3648:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 29 07:37:27.475854 2024] [mpm_winnt:notice] [pid 4048:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 29 07:37:29.492334 2024] [mpm_winnt:notice] [pid 3648:tid 660] AH00364: Child: All worker threads have exited.
+[Fri Nov 29 07:37:29.507956 2024] [mpm_winnt:notice] [pid 4048:tid 716] AH00430: Parent: Child process 3648 exited successfully.
+[Fri Nov 29 22:12:46.941242 2024] [mpm_winnt:notice] [pid 4032:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Nov 29 22:12:46.941242 2024] [mpm_winnt:notice] [pid 4032:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Nov 29 22:12:46.941242 2024] [core:notice] [pid 4032:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Nov 29 22:12:46.941242 2024] [mpm_winnt:notice] [pid 4032:tid 708] AH00418: Parent: Created child process 5936
+[Fri Nov 29 22:12:47.378639 2024] [mpm_winnt:notice] [pid 5936:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 30 03:06:38.565981 2024] [mpm_winnt:notice] [pid 4032:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 30 03:06:40.588099 2024] [mpm_winnt:notice] [pid 5936:tid 652] AH00364: Child: All worker threads have exited.
+[Sat Nov 30 03:06:40.603728 2024] [mpm_winnt:notice] [pid 4032:tid 708] AH00430: Parent: Child process 5936 exited successfully.
+[Sat Nov 30 03:07:17.481926 2024] [mpm_winnt:notice] [pid 3940:tid 764] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Nov 30 03:07:18.388046 2024] [mpm_winnt:notice] [pid 3940:tid 764] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 30 03:07:18.388046 2024] [core:notice] [pid 3940:tid 764] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Nov 30 03:07:18.419291 2024] [mpm_winnt:notice] [pid 3940:tid 764] AH00418: Parent: Created child process 5920
+[Sat Nov 30 03:07:22.387019 2024] [mpm_winnt:notice] [pid 5920:tid 648] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 30 19:15:10.697100 2024] [core:warn] [pid 3964:tid 668] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 30 19:15:12.290475 2024] [mpm_winnt:notice] [pid 3964:tid 668] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Nov 30 19:15:12.290475 2024] [mpm_winnt:notice] [pid 3964:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Nov 30 19:15:12.290475 2024] [core:notice] [pid 3964:tid 668] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Nov 30 19:15:12.290475 2024] [mpm_winnt:notice] [pid 3964:tid 668] AH00418: Parent: Created child process 5768
+[Sat Nov 30 19:15:14.024442 2024] [mpm_winnt:notice] [pid 5768:tid 472] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 30 22:34:58.926024 2024] [mpm_winnt:notice] [pid 3964:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 30 22:35:00.955322 2024] [mpm_winnt:notice] [pid 5768:tid 472] AH00364: Child: All worker threads have exited.
+[Sat Nov 30 22:35:01.002150 2024] [mpm_winnt:notice] [pid 3964:tid 668] AH00430: Parent: Child process 5768 exited successfully.
+[Sun Dec 01 11:21:24.490982 2024] [mpm_winnt:notice] [pid 3944:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 01 11:21:25.521980 2024] [mpm_winnt:notice] [pid 3944:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 01 11:21:25.521980 2024] [core:notice] [pid 3944:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 01 11:21:25.521980 2024] [mpm_winnt:notice] [pid 3944:tid 632] AH00418: Parent: Created child process 3872
+[Sun Dec 01 11:21:26.365512 2024] [mpm_winnt:notice] [pid 3872:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 01 13:01:03.806282 2024] [mpm_winnt:notice] [pid 3944:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 01 13:01:05.829663 2024] [mpm_winnt:notice] [pid 3872:tid 656] AH00364: Child: All worker threads have exited.
+[Sun Dec 01 13:01:05.860897 2024] [mpm_winnt:notice] [pid 3944:tid 632] AH00430: Parent: Child process 3872 exited successfully.
+[Mon Dec 02 20:44:38.891802 2024] [mpm_winnt:notice] [pid 3968:tid 768] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 02 20:44:38.891802 2024] [mpm_winnt:notice] [pid 3968:tid 768] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 02 20:44:38.891802 2024] [core:notice] [pid 3968:tid 768] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 02 20:44:38.891802 2024] [mpm_winnt:notice] [pid 3968:tid 768] AH00418: Parent: Created child process 6024
+[Mon Dec 02 20:44:41.703549 2024] [mpm_winnt:notice] [pid 6024:tid 676] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 02 22:54:56.958908 2024] [mpm_winnt:notice] [pid 3968:tid 768] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 02 22:54:58.994537 2024] [mpm_winnt:notice] [pid 6024:tid 676] AH00364: Child: All worker threads have exited.
+[Mon Dec 02 22:54:59.041314 2024] [mpm_winnt:notice] [pid 3968:tid 768] AH00430: Parent: Child process 6024 exited successfully.
+[Tue Dec 03 19:29:27.650858 2024] [mpm_winnt:notice] [pid 4152:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Dec 03 19:29:27.650858 2024] [mpm_winnt:notice] [pid 4152:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 03 19:29:27.650858 2024] [core:notice] [pid 4152:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Dec 03 19:29:33.431909 2024] [mpm_winnt:notice] [pid 4152:tid 672] AH00418: Parent: Created child process 6064
+[Tue Dec 03 19:29:36.665550 2024] [mpm_winnt:notice] [pid 6064:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 04 19:56:10.030564 2024] [core:warn] [pid 4052:tid 604] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 04 19:56:11.314615 2024] [mpm_winnt:notice] [pid 4052:tid 604] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Dec 04 19:56:11.314615 2024] [mpm_winnt:notice] [pid 4052:tid 604] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 04 19:56:11.314615 2024] [core:notice] [pid 4052:tid 604] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Dec 04 19:56:11.314615 2024] [mpm_winnt:notice] [pid 4052:tid 604] AH00418: Parent: Created child process 5752
+[Wed Dec 04 19:56:12.142549 2024] [mpm_winnt:notice] [pid 5752:tid 164] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 04 22:27:44.411261 2024] [mpm_winnt:notice] [pid 4052:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 22:27:46.442653 2024] [mpm_winnt:notice] [pid 5752:tid 164] AH00364: Child: All worker threads have exited.
+[Wed Dec 04 22:27:46.473897 2024] [mpm_winnt:notice] [pid 4052:tid 604] AH00430: Parent: Child process 5752 exited successfully.
+[Thu Dec 05 20:16:03.391179 2024] [mpm_winnt:notice] [pid 4100:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Dec 05 20:16:03.406889 2024] [mpm_winnt:notice] [pid 4100:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Dec 05 20:16:03.406889 2024] [core:notice] [pid 4100:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Dec 05 20:16:03.406889 2024] [mpm_winnt:notice] [pid 4100:tid 672] AH00418: Parent: Created child process 5828
+[Thu Dec 05 20:16:04.687750 2024] [mpm_winnt:notice] [pid 5828:tid 656] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 05 21:12:33.007710 2024] [mpm_winnt:notice] [pid 4100:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 05 21:12:35.035244 2024] [mpm_winnt:notice] [pid 5828:tid 656] AH00364: Child: All worker threads have exited.
+[Thu Dec 05 21:12:35.113288 2024] [mpm_winnt:notice] [pid 4100:tid 672] AH00430: Parent: Child process 5828 exited successfully.
+[Sat Dec 07 07:26:15.126101 2024] [mpm_winnt:notice] [pid 4196:tid 772] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Dec 07 07:26:15.126101 2024] [mpm_winnt:notice] [pid 4196:tid 772] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 07 07:26:15.126101 2024] [core:notice] [pid 4196:tid 772] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Dec 07 07:26:15.126101 2024] [mpm_winnt:notice] [pid 4196:tid 772] AH00418: Parent: Created child process 6072
+[Sat Dec 07 07:26:15.485391 2024] [mpm_winnt:notice] [pid 6072:tid 712] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 08 21:49:47.635138 2024] [core:warn] [pid 4168:tid 584] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 08 21:49:49.244135 2024] [mpm_winnt:notice] [pid 4168:tid 584] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 08 21:49:49.244135 2024] [mpm_winnt:notice] [pid 4168:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 08 21:49:49.244135 2024] [core:notice] [pid 4168:tid 584] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 08 21:49:49.244135 2024] [mpm_winnt:notice] [pid 4168:tid 584] AH00418: Parent: Created child process 1308
+[Sun Dec 08 21:49:50.775023 2024] [mpm_winnt:notice] [pid 1308:tid 672] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 07:14:19.047923 2024] [core:warn] [pid 3936:tid 556] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 07:14:20.386272 2024] [mpm_winnt:notice] [pid 3936:tid 556] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 07:14:20.386272 2024] [mpm_winnt:notice] [pid 3936:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 07:14:20.386272 2024] [core:notice] [pid 3936:tid 556] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 07:14:20.386272 2024] [mpm_winnt:notice] [pid 3936:tid 556] AH00418: Parent: Created child process 5660
+[Mon Dec 09 07:14:26.603527 2024] [mpm_winnt:notice] [pid 5660:tid 680] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 07:19:37.053211 2024] [core:warn] [pid 3832:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 07:19:37.631207 2024] [mpm_winnt:notice] [pid 3832:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 07:19:37.631207 2024] [mpm_winnt:notice] [pid 3832:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 07:19:37.631207 2024] [core:notice] [pid 3832:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 07:19:37.631207 2024] [mpm_winnt:notice] [pid 3832:tid 612] AH00418: Parent: Created child process 5480
+[Mon Dec 09 07:19:38.177948 2024] [mpm_winnt:notice] [pid 5480:tid 668] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 07:22:15.040477 2024] [core:warn] [pid 3900:tid 560] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 07:22:16.399530 2024] [mpm_winnt:notice] [pid 3900:tid 560] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 07:22:16.399530 2024] [mpm_winnt:notice] [pid 3900:tid 560] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 07:22:16.399530 2024] [core:notice] [pid 3900:tid 560] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 07:22:16.415151 2024] [mpm_winnt:notice] [pid 3900:tid 560] AH00418: Parent: Created child process 4204
+[Mon Dec 09 07:22:17.618010 2024] [mpm_winnt:notice] [pid 4204:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 20:38:17.682609 2024] [core:warn] [pid 3816:tid 552] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 20:38:19.041641 2024] [mpm_winnt:notice] [pid 3816:tid 552] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 20:38:19.041641 2024] [mpm_winnt:notice] [pid 3816:tid 552] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 20:38:19.041641 2024] [core:notice] [pid 3816:tid 552] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 20:38:19.041641 2024] [mpm_winnt:notice] [pid 3816:tid 552] AH00418: Parent: Created child process 5656
+[Mon Dec 09 20:38:19.650985 2024] [mpm_winnt:notice] [pid 5656:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 20:41:19.048483 2024] [core:warn] [pid 3868:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 20:41:19.657713 2024] [mpm_winnt:notice] [pid 3868:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 20:41:19.657713 2024] [mpm_winnt:notice] [pid 3868:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 20:41:19.657713 2024] [core:notice] [pid 3868:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 20:41:19.657713 2024] [mpm_winnt:notice] [pid 3868:tid 624] AH00418: Parent: Created child process 5520
+[Mon Dec 09 20:41:20.017004 2024] [mpm_winnt:notice] [pid 5520:tid 652] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 09 20:43:41.999116 2024] [core:warn] [pid 3728:tid 632] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 09 20:43:43.139473 2024] [mpm_winnt:notice] [pid 3728:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 09 20:43:43.139473 2024] [mpm_winnt:notice] [pid 3728:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 09 20:43:43.139473 2024] [core:notice] [pid 3728:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 09 20:43:43.139473 2024] [mpm_winnt:notice] [pid 3728:tid 632] AH00418: Parent: Created child process 5424
+[Mon Dec 09 20:43:44.904656 2024] [mpm_winnt:notice] [pid 5424:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 14 21:36:10.007819 2024] [core:warn] [pid 3900:tid 644] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 14 21:36:11.007608 2024] [mpm_winnt:notice] [pid 3900:tid 644] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Dec 14 21:36:11.007608 2024] [mpm_winnt:notice] [pid 3900:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 14 21:36:11.007608 2024] [core:notice] [pid 3900:tid 644] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Dec 14 21:36:11.038829 2024] [mpm_winnt:notice] [pid 3900:tid 644] AH00418: Parent: Created child process 5808
+[Sat Dec 14 21:36:12.507257 2024] [mpm_winnt:notice] [pid 5808:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 14 21:43:26.657805 2024] [core:warn] [pid 3968:tid 604] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 14 21:43:27.876267 2024] [mpm_winnt:notice] [pid 3968:tid 604] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Dec 14 21:43:27.876267 2024] [mpm_winnt:notice] [pid 3968:tid 604] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 14 21:43:27.876267 2024] [core:notice] [pid 3968:tid 604] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Dec 14 21:43:27.876267 2024] [mpm_winnt:notice] [pid 3968:tid 604] AH00418: Parent: Created child process 5872
+[Sat Dec 14 21:43:29.125975 2024] [mpm_winnt:notice] [pid 5872:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 15 09:38:07.289144 2024] [core:warn] [pid 3924:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 09:38:08.460772 2024] [mpm_winnt:notice] [pid 3924:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 15 09:38:08.460772 2024] [mpm_winnt:notice] [pid 3924:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 15 09:38:08.460772 2024] [core:notice] [pid 3924:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 15 09:38:08.476366 2024] [mpm_winnt:notice] [pid 3924:tid 612] AH00418: Parent: Created child process 5568
+[Sun Dec 15 09:38:10.054144 2024] [mpm_winnt:notice] [pid 5568:tid 512] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 15 10:28:00.511991 2024] [core:warn] [pid 3844:tid 492] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 10:28:01.261897 2024] [mpm_winnt:notice] [pid 3844:tid 492] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 15 10:28:01.261897 2024] [mpm_winnt:notice] [pid 3844:tid 492] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 15 10:28:01.261897 2024] [core:notice] [pid 3844:tid 492] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 15 10:28:01.261897 2024] [mpm_winnt:notice] [pid 3844:tid 492] AH00418: Parent: Created child process 5488
+[Sun Dec 15 10:28:02.792707 2024] [mpm_winnt:notice] [pid 5488:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 15 10:37:36.159707 2024] [core:warn] [pid 3804:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 15 10:37:37.425037 2024] [mpm_winnt:notice] [pid 3804:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 15 10:37:37.425037 2024] [mpm_winnt:notice] [pid 3804:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 15 10:37:37.425037 2024] [core:notice] [pid 3804:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 15 10:37:37.425037 2024] [mpm_winnt:notice] [pid 3804:tid 616] AH00418: Parent: Created child process 5688
+[Sun Dec 15 10:37:39.487081 2024] [mpm_winnt:notice] [pid 5688:tid 476] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 15 12:48:22.432582 2024] [mpm_winnt:notice] [pid 3804:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 15 12:48:24.458094 2024] [mpm_winnt:notice] [pid 5688:tid 476] AH00364: Child: All worker threads have exited.
+[Sun Dec 15 12:48:24.504959 2024] [mpm_winnt:notice] [pid 3804:tid 616] AH00430: Parent: Child process 5688 exited successfully.
+[Sun Dec 15 13:23:31.773495 2024] [mpm_winnt:notice] [pid 3980:tid 600] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 15 13:23:31.914179 2024] [mpm_winnt:notice] [pid 3980:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 15 13:23:31.914179 2024] [core:notice] [pid 3980:tid 600] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 15 13:23:31.914179 2024] [mpm_winnt:notice] [pid 3980:tid 600] AH00418: Parent: Created child process 4336
+[Sun Dec 15 13:23:38.100128 2024] [mpm_winnt:notice] [pid 4336:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 15 20:29:05.790477 2024] [mpm_winnt:notice] [pid 3980:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 15 20:29:07.799734 2024] [mpm_winnt:notice] [pid 4336:tid 664] AH00364: Child: All worker threads have exited.
+[Sun Dec 15 20:29:07.846600 2024] [mpm_winnt:notice] [pid 3980:tid 600] AH00430: Parent: Child process 4336 exited successfully.
+[Tue Dec 17 19:46:34.066647 2024] [mpm_winnt:notice] [pid 3136:tid 728] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Dec 17 19:46:34.254189 2024] [mpm_winnt:notice] [pid 3136:tid 728] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 17 19:46:34.254189 2024] [core:notice] [pid 3136:tid 728] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Dec 17 19:46:34.254189 2024] [mpm_winnt:notice] [pid 3136:tid 728] AH00418: Parent: Created child process 5992
+[Tue Dec 17 19:46:35.113302 2024] [mpm_winnt:notice] [pid 5992:tid 652] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 22:12:17.602388 2024] [mpm_winnt:notice] [pid 3136:tid 728] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 17 22:12:19.607791 2024] [mpm_winnt:notice] [pid 5992:tid 652] AH00364: Child: All worker threads have exited.
+[Tue Dec 17 22:12:19.670276 2024] [mpm_winnt:notice] [pid 3136:tid 728] AH00430: Parent: Child process 5992 exited successfully.
+[Tue Dec 17 22:12:56.628561 2024] [mpm_winnt:notice] [pid 3792:tid 696] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Dec 17 22:12:56.628561 2024] [mpm_winnt:notice] [pid 3792:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 17 22:12:56.628561 2024] [core:notice] [pid 3792:tid 696] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Dec 17 22:12:56.628561 2024] [mpm_winnt:notice] [pid 3792:tid 696] AH00418: Parent: Created child process 5620
+[Tue Dec 17 22:13:01.877317 2024] [mpm_winnt:notice] [pid 5620:tid 680] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 22:55:04.478986 2024] [core:warn] [pid 3944:tid 544] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 17 22:55:05.759873 2024] [mpm_winnt:notice] [pid 3944:tid 544] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Dec 17 22:55:05.759873 2024] [mpm_winnt:notice] [pid 3944:tid 544] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Dec 17 22:55:05.759873 2024] [core:notice] [pid 3944:tid 544] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Dec 17 22:55:06.603402 2024] [mpm_winnt:notice] [pid 3944:tid 544] AH00418: Parent: Created child process 6280
+[Tue Dec 17 22:55:07.321985 2024] [mpm_winnt:notice] [pid 6280:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 18 21:23:09.465970 2024] [core:warn] [pid 3844:tid 604] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 18 21:23:10.840860 2024] [mpm_winnt:notice] [pid 3844:tid 604] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Dec 18 21:23:10.840860 2024] [mpm_winnt:notice] [pid 3844:tid 604] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 18 21:23:11.840753 2024] [core:notice] [pid 3844:tid 604] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Dec 18 21:23:11.840753 2024] [mpm_winnt:notice] [pid 3844:tid 604] AH00418: Parent: Created child process 5632
+[Wed Dec 18 21:23:12.559272 2024] [mpm_winnt:notice] [pid 5632:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 19:00:19.719672 2024] [core:warn] [pid 4068:tid 644] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 21 19:00:21.348438 2024] [mpm_winnt:notice] [pid 4068:tid 644] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Dec 21 19:00:21.348438 2024] [mpm_winnt:notice] [pid 4068:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Dec 21 19:00:21.348438 2024] [core:notice] [pid 4068:tid 644] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Dec 21 19:00:21.348438 2024] [mpm_winnt:notice] [pid 4068:tid 644] AH00418: Parent: Created child process 5692
+[Sat Dec 21 19:00:22.145124 2024] [mpm_winnt:notice] [pid 5692:tid 696] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 22 07:55:50.770203 2024] [core:warn] [pid 2880:tid 568] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 22 07:55:51.539381 2024] [mpm_winnt:notice] [pid 2880:tid 568] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 22 07:55:51.539381 2024] [mpm_winnt:notice] [pid 2880:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 22 07:55:51.539381 2024] [core:notice] [pid 2880:tid 568] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 22 07:55:51.555003 2024] [mpm_winnt:notice] [pid 2880:tid 568] AH00418: Parent: Created child process 5392
+[Sun Dec 22 07:55:52.257962 2024] [mpm_winnt:notice] [pid 5392:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 23 21:12:29.684476 2024] [core:warn] [pid 3916:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 23 21:12:31.027911 2024] [mpm_winnt:notice] [pid 3916:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Dec 23 21:12:31.027911 2024] [mpm_winnt:notice] [pid 3916:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Dec 23 21:12:31.027911 2024] [core:notice] [pid 3916:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Dec 23 21:12:31.027911 2024] [mpm_winnt:notice] [pid 3916:tid 612] AH00418: Parent: Created child process 6120
+[Mon Dec 23 21:12:36.870289 2024] [mpm_winnt:notice] [pid 6120:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 25 19:57:33.696020 2024] [core:warn] [pid 4188:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 25 19:57:34.664516 2024] [mpm_winnt:notice] [pid 4188:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Dec 25 19:57:34.664516 2024] [mpm_winnt:notice] [pid 4188:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Dec 25 19:57:34.664516 2024] [core:notice] [pid 4188:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Dec 25 19:57:34.664516 2024] [mpm_winnt:notice] [pid 4188:tid 616] AH00418: Parent: Created child process 5788
+[Wed Dec 25 19:57:36.601563 2024] [mpm_winnt:notice] [pid 5788:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 29 08:47:18.886999 2024] [core:warn] [pid 3680:tid 556] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 29 08:47:21.059818 2024] [mpm_winnt:notice] [pid 3680:tid 556] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Dec 29 08:47:21.059818 2024] [mpm_winnt:notice] [pid 3680:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Dec 29 08:47:21.059818 2024] [core:notice] [pid 3680:tid 556] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Dec 29 08:47:21.075439 2024] [mpm_winnt:notice] [pid 3680:tid 556] AH00418: Parent: Created child process 5900
+[Sun Dec 29 08:47:23.231183 2024] [mpm_winnt:notice] [pid 5900:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 05 18:53:18.216380 2025] [core:warn] [pid 3816:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 05 18:53:19.762944 2025] [mpm_winnt:notice] [pid 3816:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 05 18:53:19.762944 2025] [mpm_winnt:notice] [pid 3816:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 05 18:53:19.762944 2025] [core:notice] [pid 3816:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 05 18:53:22.076209 2025] [mpm_winnt:notice] [pid 3816:tid 620] AH00418: Parent: Created child process 5732
+[Sun Jan 05 18:53:23.185322 2025] [mpm_winnt:notice] [pid 5732:tid 684] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 06 20:10:40.517323 2025] [core:warn] [pid 3368:tid 604] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 06 20:10:42.293882 2025] [mpm_winnt:notice] [pid 3368:tid 604] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Jan 06 20:10:42.293882 2025] [mpm_winnt:notice] [pid 3368:tid 604] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Jan 06 20:10:42.293882 2025] [core:notice] [pid 3368:tid 604] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Jan 06 20:10:42.309503 2025] [mpm_winnt:notice] [pid 3368:tid 604] AH00418: Parent: Created child process 5912
+[Mon Jan 06 20:10:43.372304 2025] [mpm_winnt:notice] [pid 5912:tid 672] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 10 20:25:28.746494 2025] [core:warn] [pid 3972:tid 648] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 10 20:25:30.371522 2025] [mpm_winnt:notice] [pid 3972:tid 648] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jan 10 20:25:30.371522 2025] [mpm_winnt:notice] [pid 3972:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jan 10 20:25:30.371522 2025] [core:notice] [pid 3972:tid 648] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jan 10 20:25:30.371522 2025] [mpm_winnt:notice] [pid 3972:tid 648] AH00418: Parent: Created child process 5884
+[Fri Jan 10 20:25:31.183859 2025] [mpm_winnt:notice] [pid 5884:tid 468] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 10 23:14:44.481541 2025] [mpm_winnt:notice] [pid 3972:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 10 23:14:46.512418 2025] [mpm_winnt:notice] [pid 5884:tid 468] AH00364: Child: All worker threads have exited.
+[Fri Jan 10 23:14:46.543662 2025] [mpm_winnt:notice] [pid 3972:tid 648] AH00430: Parent: Child process 5884 exited successfully.
+[Sat Jan 11 17:52:43.735842 2025] [mpm_winnt:notice] [pid 1768:tid 716] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jan 11 17:52:43.751545 2025] [mpm_winnt:notice] [pid 1768:tid 716] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jan 11 17:52:43.751545 2025] [core:notice] [pid 1768:tid 716] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jan 11 17:52:43.751545 2025] [mpm_winnt:notice] [pid 1768:tid 716] AH00418: Parent: Created child process 5976
+[Sat Jan 11 17:52:52.577499 2025] [mpm_winnt:notice] [pid 5976:tid 664] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 13 20:43:57.065316 2025] [core:warn] [pid 4052:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 13 20:43:57.908892 2025] [mpm_winnt:notice] [pid 4052:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Jan 13 20:43:57.908892 2025] [mpm_winnt:notice] [pid 4052:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Jan 13 20:43:57.908892 2025] [core:notice] [pid 4052:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Jan 13 20:43:57.924489 2025] [mpm_winnt:notice] [pid 4052:tid 612] AH00418: Parent: Created child process 5540
+[Mon Jan 13 20:43:58.689963 2025] [mpm_winnt:notice] [pid 5540:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 18 13:25:13.051173 2025] [core:warn] [pid 3988:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 18 13:25:14.097809 2025] [mpm_winnt:notice] [pid 3988:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jan 18 13:25:14.097809 2025] [mpm_winnt:notice] [pid 3988:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jan 18 13:25:14.097809 2025] [core:notice] [pid 3988:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jan 18 13:25:14.097809 2025] [mpm_winnt:notice] [pid 3988:tid 616] AH00418: Parent: Created child process 5860
+[Sat Jan 18 13:25:16.003587 2025] [mpm_winnt:notice] [pid 5860:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 18 21:41:18.934287 2025] [mpm_winnt:notice] [pid 3988:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 18 21:41:20.967214 2025] [mpm_winnt:notice] [pid 5860:tid 664] AH00364: Child: All worker threads have exited.
+[Sat Jan 18 21:41:20.998457 2025] [mpm_winnt:notice] [pid 3988:tid 616] AH00430: Parent: Child process 5860 exited successfully.
+[Sun Jan 19 07:40:18.689368 2025] [mpm_winnt:notice] [pid 3252:tid 736] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 19 07:40:18.689368 2025] [mpm_winnt:notice] [pid 3252:tid 736] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 19 07:40:18.689368 2025] [core:notice] [pid 3252:tid 736] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 19 07:40:18.704990 2025] [mpm_winnt:notice] [pid 3252:tid 736] AH00418: Parent: Created child process 6132
+[Sun Jan 19 07:40:31.405145 2025] [mpm_winnt:notice] [pid 6132:tid 672] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 19 10:07:35.153787 2025] [mpm_winnt:notice] [pid 3252:tid 736] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 19 10:07:37.180197 2025] [mpm_winnt:notice] [pid 6132:tid 672] AH00364: Child: All worker threads have exited.
+[Sun Jan 19 10:07:37.211444 2025] [mpm_winnt:notice] [pid 3252:tid 736] AH00430: Parent: Child process 6132 exited successfully.
+[Sun Jan 19 17:52:49.096907 2025] [mpm_winnt:notice] [pid 3896:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 19 17:52:49.096907 2025] [mpm_winnt:notice] [pid 3896:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 19 17:52:49.096907 2025] [core:notice] [pid 3896:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 19 17:52:49.112528 2025] [mpm_winnt:notice] [pid 3896:tid 664] AH00418: Parent: Created child process 5672
+[Sun Jan 19 17:52:49.659273 2025] [mpm_winnt:notice] [pid 5672:tid 464] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 19 23:49:23.808309 2025] [mpm_winnt:notice] [pid 3896:tid 664] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 19 23:49:25.827208 2025] [mpm_winnt:notice] [pid 5672:tid 464] AH00364: Child: All worker threads have exited.
+[Sun Jan 19 23:49:25.858457 2025] [mpm_winnt:notice] [pid 3896:tid 664] AH00430: Parent: Child process 5672 exited successfully.
+[Sun Jan 19 23:49:53.015959 2025] [mpm_winnt:notice] [pid 4124:tid 788] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 19 23:49:53.015959 2025] [mpm_winnt:notice] [pid 4124:tid 788] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 19 23:49:53.015959 2025] [core:notice] [pid 4124:tid 788] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 19 23:49:53.031580 2025] [mpm_winnt:notice] [pid 4124:tid 788] AH00418: Parent: Created child process 5868
+[Sun Jan 19 23:49:53.484598 2025] [mpm_winnt:notice] [pid 5868:tid 676] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 23 20:46:27.311075 2025] [core:warn] [pid 4024:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 23 20:46:30.732146 2025] [mpm_winnt:notice] [pid 4024:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Jan 23 20:46:30.732146 2025] [mpm_winnt:notice] [pid 4024:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Jan 23 20:46:30.732146 2025] [core:notice] [pid 4024:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Jan 23 20:46:30.732146 2025] [mpm_winnt:notice] [pid 4024:tid 612] AH00418: Parent: Created child process 6192
+[Thu Jan 23 20:46:31.216408 2025] [mpm_winnt:notice] [pid 6192:tid 492] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 23 22:55:26.823249 2025] [mpm_winnt:notice] [pid 4024:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 23 22:55:28.859591 2025] [mpm_winnt:notice] [pid 6192:tid 492] AH00364: Child: All worker threads have exited.
+[Thu Jan 23 22:55:28.906367 2025] [mpm_winnt:notice] [pid 4024:tid 612] AH00430: Parent: Child process 6192 exited successfully.
+[Fri Jan 24 20:30:45.419640 2025] [mpm_winnt:notice] [pid 3816:tid 700] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jan 24 20:30:45.466504 2025] [mpm_winnt:notice] [pid 3816:tid 700] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jan 24 20:30:45.466504 2025] [core:notice] [pid 3816:tid 700] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jan 24 20:30:45.466504 2025] [mpm_winnt:notice] [pid 3816:tid 700] AH00418: Parent: Created child process 6148
+[Fri Jan 24 20:30:46.591238 2025] [mpm_winnt:notice] [pid 6148:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 24 21:31:33.923350 2025] [mpm_winnt:notice] [pid 3816:tid 700] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 24 21:31:35.959474 2025] [mpm_winnt:notice] [pid 6148:tid 660] AH00364: Child: All worker threads have exited.
+[Fri Jan 24 21:31:35.990715 2025] [mpm_winnt:notice] [pid 3816:tid 700] AH00430: Parent: Child process 6148 exited successfully.
+[Sat Jan 25 20:29:47.402589 2025] [mpm_winnt:notice] [pid 3784:tid 720] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jan 25 20:29:47.402589 2025] [mpm_winnt:notice] [pid 3784:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jan 25 20:29:47.402589 2025] [core:notice] [pid 3784:tid 720] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jan 25 20:29:47.402589 2025] [mpm_winnt:notice] [pid 3784:tid 720] AH00418: Parent: Created child process 3620
+[Sat Jan 25 20:29:48.699157 2025] [mpm_winnt:notice] [pid 3620:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 25 21:30:10.771541 2025] [mpm_winnt:notice] [pid 3784:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 25 21:30:12.794515 2025] [mpm_winnt:notice] [pid 3620:tid 656] AH00364: Child: All worker threads have exited.
+[Sat Jan 25 21:30:12.825755 2025] [mpm_winnt:notice] [pid 3784:tid 720] AH00430: Parent: Child process 3620 exited successfully.
+[Sun Jan 26 07:58:43.113300 2025] [mpm_winnt:notice] [pid 4068:tid 776] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 26 07:58:43.113300 2025] [mpm_winnt:notice] [pid 4068:tid 776] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 26 07:58:43.113300 2025] [core:notice] [pid 4068:tid 776] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 26 07:58:43.191377 2025] [mpm_winnt:notice] [pid 4068:tid 776] AH00418: Parent: Created child process 3776
+[Sun Jan 26 07:58:49.518015 2025] [mpm_winnt:notice] [pid 3776:tid 588] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 26 16:08:53.774650 2025] [mpm_winnt:notice] [pid 4068:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 26 16:08:55.783919 2025] [mpm_winnt:notice] [pid 3776:tid 588] AH00364: Child: All worker threads have exited.
+[Sun Jan 26 16:08:55.815162 2025] [mpm_winnt:notice] [pid 4068:tid 776] AH00430: Parent: Child process 3776 exited successfully.
+[Sun Jan 26 18:32:03.522502 2025] [mpm_winnt:notice] [pid 3084:tid 724] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jan 26 18:32:03.897482 2025] [mpm_winnt:notice] [pid 3084:tid 724] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jan 26 18:32:03.897482 2025] [core:notice] [pid 3084:tid 724] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jan 26 18:32:03.913009 2025] [mpm_winnt:notice] [pid 3084:tid 724] AH00418: Parent: Created child process 5920
+[Sun Jan 26 18:32:11.536226 2025] [mpm_winnt:notice] [pid 5920:tid 736] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 26 21:21:12.683832 2025] [mpm_winnt:notice] [pid 3084:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 26 21:21:14.697154 2025] [mpm_winnt:notice] [pid 5920:tid 736] AH00364: Child: All worker threads have exited.
+[Sun Jan 26 21:21:14.728390 2025] [mpm_winnt:notice] [pid 3084:tid 724] AH00430: Parent: Child process 5920 exited successfully.
+[Tue Jan 28 19:10:31.804507 2025] [mpm_winnt:notice] [pid 4180:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Jan 28 19:10:31.867078 2025] [mpm_winnt:notice] [pid 4180:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Jan 28 19:10:31.867078 2025] [core:notice] [pid 4180:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Jan 28 19:10:31.882626 2025] [mpm_winnt:notice] [pid 4180:tid 708] AH00418: Parent: Created child process 5920
+[Tue Jan 28 19:10:33.319773 2025] [mpm_winnt:notice] [pid 5920:tid 652] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 28 23:36:15.621069 2025] [mpm_winnt:notice] [pid 4180:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 28 23:36:17.638566 2025] [mpm_winnt:notice] [pid 5920:tid 652] AH00364: Child: All worker threads have exited.
+[Tue Jan 28 23:36:17.700958 2025] [mpm_winnt:notice] [pid 4180:tid 708] AH00430: Parent: Child process 5920 exited successfully.
+[Wed Jan 29 20:59:37.228322 2025] [mpm_winnt:notice] [pid 4172:tid 716] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jan 29 20:59:37.228322 2025] [mpm_winnt:notice] [pid 4172:tid 716] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jan 29 20:59:37.228322 2025] [core:notice] [pid 4172:tid 716] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jan 29 20:59:37.228322 2025] [mpm_winnt:notice] [pid 4172:tid 716] AH00418: Parent: Created child process 5768
+[Wed Jan 29 20:59:54.083721 2025] [mpm_winnt:notice] [pid 5768:tid 688] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 29 23:14:52.270838 2025] [mpm_winnt:notice] [pid 4172:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 29 23:14:54.303254 2025] [mpm_winnt:notice] [pid 5768:tid 688] AH00364: Child: All worker threads have exited.
+[Wed Jan 29 23:14:54.334498 2025] [mpm_winnt:notice] [pid 4172:tid 716] AH00430: Parent: Child process 5768 exited successfully.
+[Thu Jan 30 22:18:50.474677 2025] [mpm_winnt:notice] [pid 4252:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Jan 30 22:18:50.474677 2025] [mpm_winnt:notice] [pid 4252:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Jan 30 22:18:50.474677 2025] [core:notice] [pid 4252:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Jan 30 22:18:50.474677 2025] [mpm_winnt:notice] [pid 4252:tid 708] AH00418: Parent: Created child process 4280
+[Thu Jan 30 22:18:50.958939 2025] [mpm_winnt:notice] [pid 4280:tid 652] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 31 20:45:53.160163 2025] [core:warn] [pid 4016:tid 584] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 31 20:45:54.433478 2025] [mpm_winnt:notice] [pid 4016:tid 584] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jan 31 20:45:54.433478 2025] [mpm_winnt:notice] [pid 4016:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jan 31 20:45:54.433478 2025] [core:notice] [pid 4016:tid 584] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jan 31 20:45:54.433478 2025] [mpm_winnt:notice] [pid 4016:tid 584] AH00418: Parent: Created child process 5296
+[Fri Jan 31 20:45:55.573979 2025] [mpm_winnt:notice] [pid 5296:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 31 21:38:36.333655 2025] [mpm_winnt:notice] [pid 4016:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 31 21:38:38.366336 2025] [mpm_winnt:notice] [pid 5296:tid 664] AH00364: Child: All worker threads have exited.
+[Fri Jan 31 21:38:39.131778 2025] [mpm_winnt:notice] [pid 4016:tid 584] AH00430: Parent: Child process 5296 exited successfully.
+[Fri Jan 31 21:43:11.964220 2025] [mpm_winnt:notice] [pid 4100:tid 776] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jan 31 21:43:12.042336 2025] [mpm_winnt:notice] [pid 4100:tid 776] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jan 31 21:43:12.042336 2025] [core:notice] [pid 4100:tid 776] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jan 31 21:43:12.057947 2025] [mpm_winnt:notice] [pid 4100:tid 776] AH00418: Parent: Created child process 6300
+[Fri Jan 31 21:43:15.603986 2025] [mpm_winnt:notice] [pid 6300:tid 672] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 05 07:51:39.827680 2025] [core:warn] [pid 3904:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 05 07:51:40.655858 2025] [mpm_winnt:notice] [pid 3904:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Feb 05 07:51:40.655858 2025] [mpm_winnt:notice] [pid 3904:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Feb 05 07:51:40.655858 2025] [core:notice] [pid 3904:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Feb 05 07:51:40.655858 2025] [mpm_winnt:notice] [pid 3904:tid 624] AH00418: Parent: Created child process 5416
+[Wed Feb 05 07:51:41.640260 2025] [mpm_winnt:notice] [pid 5416:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 08 20:25:56.725668 2025] [mpm_winnt:notice] [pid 3904:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 08 20:25:58.750506 2025] [mpm_winnt:notice] [pid 5416:tid 568] AH00364: Child: All worker threads have exited.
+[Sat Feb 08 20:25:58.922344 2025] [mpm_winnt:notice] [pid 3904:tid 624] AH00430: Parent: Child process 5416 exited successfully.
+[Sat Feb 08 20:26:45.401716 2025] [mpm_winnt:notice] [pid 4028:tid 712] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Feb 08 20:26:45.417336 2025] [mpm_winnt:notice] [pid 4028:tid 712] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Feb 08 20:26:45.417336 2025] [core:notice] [pid 4028:tid 712] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Feb 08 20:26:45.417336 2025] [mpm_winnt:notice] [pid 4028:tid 712] AH00418: Parent: Created child process 5840
+[Sat Feb 08 20:26:47.151306 2025] [mpm_winnt:notice] [pid 5840:tid 688] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 09 08:25:37.783587 2025] [core:warn] [pid 3968:tid 672] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 08:25:38.955187 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Feb 09 08:25:38.955187 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Feb 09 08:25:38.955187 2025] [core:notice] [pid 3968:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Feb 09 08:25:38.955187 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00418: Parent: Created child process 5832
+[Sun Feb 09 08:25:46.031978 2025] [mpm_winnt:notice] [pid 5832:tid 768] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 09 17:04:24.817402 2025] [core:warn] [pid 3912:tid 584] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 17:04:25.536014 2025] [mpm_winnt:notice] [pid 3912:tid 584] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Feb 09 17:04:25.536014 2025] [mpm_winnt:notice] [pid 3912:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Feb 09 17:04:25.536014 2025] [core:notice] [pid 3912:tid 584] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Feb 09 17:04:25.536014 2025] [mpm_winnt:notice] [pid 3912:tid 584] AH00418: Parent: Created child process 5668
+[Sun Feb 09 17:04:36.692976 2025] [mpm_winnt:notice] [pid 5668:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 09 17:23:26.008719 2025] [core:warn] [pid 3980:tid 648] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 09 17:23:26.727357 2025] [mpm_winnt:notice] [pid 3980:tid 648] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Feb 09 17:23:26.727357 2025] [mpm_winnt:notice] [pid 3980:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Feb 09 17:23:26.727357 2025] [core:notice] [pid 3980:tid 648] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Feb 09 17:23:26.742896 2025] [mpm_winnt:notice] [pid 3980:tid 648] AH00418: Parent: Created child process 5820
+[Sun Feb 09 17:23:35.131555 2025] [mpm_winnt:notice] [pid 5820:tid 592] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 15 20:03:06.245194 2025] [core:warn] [pid 3996:tid 560] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 20:03:07.387132 2025] [mpm_winnt:notice] [pid 3996:tid 560] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Feb 15 20:03:07.387132 2025] [mpm_winnt:notice] [pid 3996:tid 560] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Feb 15 20:03:07.387132 2025] [core:notice] [pid 3996:tid 560] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Feb 15 20:03:07.402674 2025] [mpm_winnt:notice] [pid 3996:tid 560] AH00418: Parent: Created child process 5444
+[Sat Feb 15 20:03:07.965044 2025] [mpm_winnt:notice] [pid 5444:tid 652] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 21 20:39:16.626182 2025] [core:warn] [pid 3856:tid 632] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 21 20:39:18.422626 2025] [mpm_winnt:notice] [pid 3856:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Feb 21 20:39:18.422626 2025] [mpm_winnt:notice] [pid 3856:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Feb 21 20:39:18.422626 2025] [core:notice] [pid 3856:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Feb 21 20:39:18.438247 2025] [mpm_winnt:notice] [pid 3856:tid 632] AH00418: Parent: Created child process 5652
+[Fri Feb 21 20:39:19.063101 2025] [mpm_winnt:notice] [pid 5652:tid 652] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 22 06:43:13.710017 2025] [core:warn] [pid 3716:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 22 06:43:21.270868 2025] [mpm_winnt:notice] [pid 3716:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Feb 22 06:43:21.286489 2025] [mpm_winnt:notice] [pid 3716:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Feb 22 06:43:21.286489 2025] [core:notice] [pid 3716:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Feb 22 06:43:21.317732 2025] [mpm_winnt:notice] [pid 3716:tid 624] AH00418: Parent: Created child process 6480
+[Sat Feb 22 06:43:22.286255 2025] [mpm_winnt:notice] [pid 6480:tid 508] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 21:05:07.169014 2025] [core:warn] [pid 3808:tid 664] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 21:05:09.590233 2025] [mpm_winnt:notice] [pid 3808:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Feb 24 21:05:09.590233 2025] [mpm_winnt:notice] [pid 3808:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Feb 24 21:05:09.590233 2025] [core:notice] [pid 3808:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Feb 24 21:05:09.605854 2025] [mpm_winnt:notice] [pid 3808:tid 664] AH00418: Parent: Created child process 6368
+[Mon Feb 24 21:05:12.776986 2025] [mpm_winnt:notice] [pid 6368:tid 688] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 28 21:05:21.139525 2025] [core:warn] [pid 4080:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 28 21:05:21.670651 2025] [mpm_winnt:notice] [pid 4080:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Feb 28 21:05:21.670651 2025] [mpm_winnt:notice] [pid 4080:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Feb 28 21:05:21.670651 2025] [core:notice] [pid 4080:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Feb 28 21:05:21.670651 2025] [mpm_winnt:notice] [pid 4080:tid 620] AH00418: Parent: Created child process 5736
+[Fri Feb 28 21:05:22.420475 2025] [mpm_winnt:notice] [pid 5736:tid 668] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 04 20:03:05.125009 2025] [core:warn] [pid 3968:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 04 20:03:06.983950 2025] [mpm_winnt:notice] [pid 3968:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Mar 04 20:03:06.983950 2025] [mpm_winnt:notice] [pid 3968:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Mar 04 20:03:06.983950 2025] [core:notice] [pid 3968:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Mar 04 20:03:06.983950 2025] [mpm_winnt:notice] [pid 3968:tid 612] AH00418: Parent: Created child process 5732
+[Tue Mar 04 20:03:07.608803 2025] [mpm_winnt:notice] [pid 5732:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 05 20:47:49.838560 2025] [core:warn] [pid 3960:tid 664] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 05 20:47:50.760139 2025] [mpm_winnt:notice] [pid 3960:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Mar 05 20:47:50.760139 2025] [mpm_winnt:notice] [pid 3960:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Mar 05 20:47:50.760139 2025] [core:notice] [pid 3960:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Mar 05 20:47:50.775768 2025] [mpm_winnt:notice] [pid 3960:tid 664] AH00418: Parent: Created child process 5716
+[Wed Mar 05 20:47:51.244399 2025] [mpm_winnt:notice] [pid 5716:tid 652] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 06 20:20:06.451752 2025] [core:warn] [pid 3856:tid 460] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 06 20:20:08.045151 2025] [mpm_winnt:notice] [pid 3856:tid 460] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Mar 06 20:20:08.045151 2025] [mpm_winnt:notice] [pid 3856:tid 460] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Mar 06 20:20:08.045151 2025] [core:notice] [pid 3856:tid 460] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Mar 06 20:20:08.045151 2025] [mpm_winnt:notice] [pid 3856:tid 460] AH00418: Parent: Created child process 5780
+[Thu Mar 06 20:20:08.748092 2025] [mpm_winnt:notice] [pid 5780:tid 652] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 07 21:32:33.420464 2025] [core:warn] [pid 3968:tid 556] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 07 21:32:34.092186 2025] [mpm_winnt:notice] [pid 3968:tid 556] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Mar 07 21:32:34.310891 2025] [mpm_winnt:notice] [pid 3968:tid 556] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Mar 07 21:32:34.310891 2025] [core:notice] [pid 3968:tid 556] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Mar 07 21:32:34.388990 2025] [mpm_winnt:notice] [pid 3968:tid 556] AH00418: Parent: Created child process 5628
+[Fri Mar 07 21:32:35.388698 2025] [mpm_winnt:notice] [pid 5628:tid 668] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 16 08:58:56.757442 2025] [core:warn] [pid 4108:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 16 08:59:04.396272 2025] [mpm_winnt:notice] [pid 4108:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Mar 16 08:59:04.396272 2025] [mpm_winnt:notice] [pid 4108:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Mar 16 08:59:04.396272 2025] [core:notice] [pid 4108:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Mar 16 08:59:04.396272 2025] [mpm_winnt:notice] [pid 4108:tid 612] AH00418: Parent: Created child process 7220
+[Sun Mar 16 08:59:10.426079 2025] [mpm_winnt:notice] [pid 7220:tid 660] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 17 20:59:01.371705 2025] [core:warn] [pid 1836:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 17 20:59:03.558695 2025] [mpm_winnt:notice] [pid 1836:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Mar 17 20:59:03.558695 2025] [mpm_winnt:notice] [pid 1836:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Mar 17 20:59:03.558695 2025] [core:notice] [pid 1836:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Mar 17 20:59:03.558695 2025] [mpm_winnt:notice] [pid 1836:tid 616] AH00418: Parent: Created child process 3928
+[Mon Mar 17 20:59:07.745127 2025] [mpm_winnt:notice] [pid 3928:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 23 17:26:50.893725 2025] [core:warn] [pid 3864:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 17:26:52.596365 2025] [mpm_winnt:notice] [pid 3864:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Mar 23 17:26:52.596365 2025] [mpm_winnt:notice] [pid 3864:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Mar 23 17:26:52.596365 2025] [core:notice] [pid 3864:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Mar 23 17:26:52.611986 2025] [mpm_winnt:notice] [pid 3864:tid 612] AH00418: Parent: Created child process 5416
+[Sun Mar 23 17:26:53.174379 2025] [mpm_winnt:notice] [pid 5416:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 26 22:02:13.968811 2025] [core:warn] [pid 4224:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 26 22:02:22.938491 2025] [mpm_winnt:notice] [pid 4224:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Mar 26 22:02:22.938491 2025] [mpm_winnt:notice] [pid 4224:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Mar 26 22:02:22.938491 2025] [core:notice] [pid 4224:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Mar 26 22:02:22.938491 2025] [mpm_winnt:notice] [pid 4224:tid 624] AH00418: Parent: Created child process 6576
+[Wed Mar 26 22:02:24.734941 2025] [mpm_winnt:notice] [pid 6576:tid 668] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 30 08:12:42.969953 2025] [core:warn] [pid 4044:tid 732] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 30 08:12:43.438592 2025] [mpm_winnt:notice] [pid 4044:tid 732] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Mar 30 08:12:43.438592 2025] [mpm_winnt:notice] [pid 4044:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Mar 30 08:12:43.438592 2025] [core:notice] [pid 4044:tid 732] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Mar 30 08:12:43.438592 2025] [mpm_winnt:notice] [pid 4044:tid 732] AH00418: Parent: Created child process 5424
+[Sun Mar 30 08:12:57.249392 2025] [mpm_winnt:notice] [pid 5424:tid 620] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 01 22:50:49.356240 2025] [core:warn] [pid 4264:tid 644] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 01 22:51:04.696371 2025] [mpm_winnt:notice] [pid 4264:tid 644] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 01 22:51:04.696371 2025] [mpm_winnt:notice] [pid 4264:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 01 22:51:04.696371 2025] [core:notice] [pid 4264:tid 644] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 01 22:51:04.696371 2025] [mpm_winnt:notice] [pid 4264:tid 644] AH00418: Parent: Created child process 7756
+[Tue Apr 01 22:51:11.569691 2025] [mpm_winnt:notice] [pid 7756:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 02 22:49:26.024330 2025] [core:warn] [pid 1708:tid 644] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 02 22:49:33.506916 2025] [mpm_winnt:notice] [pid 1708:tid 644] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 02 22:49:33.506916 2025] [mpm_winnt:notice] [pid 1708:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 02 22:49:33.506916 2025] [core:notice] [pid 1708:tid 644] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 02 22:49:33.506916 2025] [mpm_winnt:notice] [pid 1708:tid 644] AH00418: Parent: Created child process 5908
+[Wed Apr 02 22:50:08.920517 2025] [mpm_winnt:notice] [pid 5908:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 06 11:05:28.230759 2025] [core:warn] [pid 3912:tid 672] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 06 11:05:28.996209 2025] [mpm_winnt:notice] [pid 3912:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Apr 06 11:05:28.996209 2025] [mpm_winnt:notice] [pid 3912:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Apr 06 11:05:28.996209 2025] [core:notice] [pid 3912:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Apr 06 11:05:28.996209 2025] [mpm_winnt:notice] [pid 3912:tid 672] AH00418: Parent: Created child process 5856
+[Sun Apr 06 11:05:29.386748 2025] [mpm_winnt:notice] [pid 5856:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 06 14:03:31.264098 2025] [core:warn] [pid 4056:tid 504] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 06 14:03:37.247062 2025] [mpm_winnt:notice] [pid 4056:tid 504] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Apr 06 14:03:37.418917 2025] [mpm_winnt:notice] [pid 4056:tid 504] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Apr 06 14:03:37.418917 2025] [core:notice] [pid 4056:tid 504] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Apr 06 14:03:37.418917 2025] [mpm_winnt:notice] [pid 4056:tid 504] AH00418: Parent: Created child process 5952
+[Sun Apr 06 14:03:42.214665 2025] [mpm_winnt:notice] [pid 5952:tid 660] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 08 20:14:44.416771 2025] [core:warn] [pid 4068:tid 632] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 08 20:14:45.041624 2025] [mpm_winnt:notice] [pid 4068:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 08 20:14:45.041624 2025] [mpm_winnt:notice] [pid 4068:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 08 20:14:45.041624 2025] [core:notice] [pid 4068:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 08 20:14:45.057220 2025] [mpm_winnt:notice] [pid 4068:tid 632] AH00418: Parent: Created child process 5512
+[Tue Apr 08 20:14:45.557102 2025] [mpm_winnt:notice] [pid 5512:tid 692] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 09 00:09:33.943679 2025] [mpm_winnt:notice] [pid 4068:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 09 00:09:35.973862 2025] [mpm_winnt:notice] [pid 5512:tid 692] AH00364: Child: All worker threads have exited.
+[Wed Apr 09 00:09:36.005068 2025] [mpm_winnt:notice] [pid 4068:tid 632] AH00430: Parent: Child process 5512 exited successfully.
+[Wed Apr 09 00:11:20.556955 2025] [mpm_winnt:notice] [pid 2628:tid 732] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 09 00:11:20.556955 2025] [mpm_winnt:notice] [pid 2628:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 09 00:11:20.556955 2025] [core:notice] [pid 2628:tid 732] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 09 00:11:20.556955 2025] [mpm_winnt:notice] [pid 2628:tid 732] AH00418: Parent: Created child process 6268
+[Wed Apr 09 00:11:24.743474 2025] [mpm_winnt:notice] [pid 6268:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 09 02:55:20.181459 2025] [mpm_winnt:notice] [pid 2628:tid 732] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 09 02:55:22.212299 2025] [mpm_winnt:notice] [pid 6268:tid 660] AH00364: Child: All worker threads have exited.
+[Wed Apr 09 02:55:22.571560 2025] [mpm_winnt:notice] [pid 2628:tid 732] AH00430: Parent: Child process 6268 exited successfully.
+[Wed Apr 09 02:58:29.531974 2025] [mpm_winnt:notice] [pid 3720:tid 700] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 09 02:58:29.938158 2025] [mpm_winnt:notice] [pid 3720:tid 700] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 09 02:58:29.938158 2025] [core:notice] [pid 3720:tid 700] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 09 02:58:29.953779 2025] [mpm_winnt:notice] [pid 3720:tid 700] AH00418: Parent: Created child process 5848
+[Wed Apr 09 02:58:34.265273 2025] [mpm_winnt:notice] [pid 5848:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 09 19:41:48.877719 2025] [core:warn] [pid 3804:tid 644] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 09 19:41:49.580675 2025] [mpm_winnt:notice] [pid 3804:tid 644] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 09 19:41:49.580675 2025] [mpm_winnt:notice] [pid 3804:tid 644] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 09 19:41:49.658876 2025] [core:notice] [pid 3804:tid 644] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 09 19:41:49.674403 2025] [mpm_winnt:notice] [pid 3804:tid 644] AH00418: Parent: Created child process 5584
+[Wed Apr 09 19:41:50.189906 2025] [mpm_winnt:notice] [pid 5584:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 10 06:22:27.460824 2025] [mpm_winnt:notice] [pid 3804:tid 644] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 10 06:22:29.483034 2025] [mpm_winnt:notice] [pid 5584:tid 660] AH00364: Child: All worker threads have exited.
+[Thu Apr 10 06:22:29.576760 2025] [mpm_winnt:notice] [pid 3804:tid 644] AH00430: Parent: Child process 5584 exited successfully.
+[Thu Apr 10 21:05:11.606303 2025] [mpm_winnt:notice] [pid 1768:tid 728] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 10 21:05:11.606303 2025] [mpm_winnt:notice] [pid 1768:tid 728] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 10 21:05:11.606303 2025] [core:notice] [pid 1768:tid 728] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 10 21:05:11.621924 2025] [mpm_winnt:notice] [pid 1768:tid 728] AH00418: Parent: Created child process 5892
+[Thu Apr 10 21:05:12.356158 2025] [mpm_winnt:notice] [pid 5892:tid 672] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 11 21:20:10.302841 2025] [core:warn] [pid 4296:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 11 21:20:12.208663 2025] [mpm_winnt:notice] [pid 4296:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Apr 11 21:20:12.208663 2025] [mpm_winnt:notice] [pid 4296:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Apr 11 21:20:12.208663 2025] [core:notice] [pid 4296:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Apr 11 21:20:12.208663 2025] [mpm_winnt:notice] [pid 4296:tid 616] AH00418: Parent: Created child process 6428
+[Fri Apr 11 21:20:12.536691 2025] [mpm_winnt:notice] [pid 6428:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 13 07:42:57.407922 2025] [core:warn] [pid 3968:tid 608] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 13 07:42:57.720372 2025] [mpm_winnt:notice] [pid 3968:tid 608] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Apr 13 07:42:57.720372 2025] [mpm_winnt:notice] [pid 3968:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Apr 13 07:42:57.720372 2025] [core:notice] [pid 3968:tid 608] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Apr 13 07:42:57.720372 2025] [mpm_winnt:notice] [pid 3968:tid 608] AH00418: Parent: Created child process 5500
+[Sun Apr 13 07:42:58.126505 2025] [mpm_winnt:notice] [pid 5500:tid 672] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 15 20:02:46.436204 2025] [core:warn] [pid 3912:tid 648] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 15 20:02:48.138841 2025] [mpm_winnt:notice] [pid 3912:tid 648] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 15 20:02:48.138841 2025] [mpm_winnt:notice] [pid 3912:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 15 20:02:48.138841 2025] [core:notice] [pid 3912:tid 648] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 15 20:02:48.154462 2025] [mpm_winnt:notice] [pid 3912:tid 648] AH00418: Parent: Created child process 6516
+[Tue Apr 15 20:02:53.731284 2025] [mpm_winnt:notice] [pid 6516:tid 668] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 16 21:02:06.202457 2025] [core:warn] [pid 3752:tid 460] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 16 21:02:07.139735 2025] [mpm_winnt:notice] [pid 3752:tid 460] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 16 21:02:07.139735 2025] [mpm_winnt:notice] [pid 3752:tid 460] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 16 21:02:07.139735 2025] [core:notice] [pid 3752:tid 460] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 16 21:02:07.139735 2025] [mpm_winnt:notice] [pid 3752:tid 460] AH00418: Parent: Created child process 5520
+[Wed Apr 16 21:02:12.029209 2025] [mpm_winnt:notice] [pid 5520:tid 692] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 02:15:26.241953 2025] [core:warn] [pid 3568:tid 516] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 02:15:26.694971 2025] [mpm_winnt:notice] [pid 3568:tid 516] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 02:15:26.694971 2025] [mpm_winnt:notice] [pid 3568:tid 516] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 02:15:26.694971 2025] [core:notice] [pid 3568:tid 516] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 02:15:26.694971 2025] [mpm_winnt:notice] [pid 3568:tid 516] AH00418: Parent: Created child process 5476
+[Thu Apr 17 02:15:28.038403 2025] [mpm_winnt:notice] [pid 5476:tid 668] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 06:50:35.149951 2025] [core:warn] [pid 3636:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 06:50:35.821667 2025] [mpm_winnt:notice] [pid 3636:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 06:50:35.821667 2025] [mpm_winnt:notice] [pid 3636:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 06:50:35.821667 2025] [core:notice] [pid 3636:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 06:50:35.837289 2025] [mpm_winnt:notice] [pid 3636:tid 620] AH00418: Parent: Created child process 5496
+[Thu Apr 17 06:50:38.211732 2025] [mpm_winnt:notice] [pid 5496:tid 656] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 08:21:37.469662 2025] [core:warn] [pid 3768:tid 664] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 08:21:37.766376 2025] [mpm_winnt:notice] [pid 3768:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 08:21:37.766376 2025] [mpm_winnt:notice] [pid 3768:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 08:21:37.766376 2025] [core:notice] [pid 3768:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 08:21:37.766376 2025] [mpm_winnt:notice] [pid 3768:tid 664] AH00418: Parent: Created child process 5468
+[Thu Apr 17 08:21:38.344366 2025] [mpm_winnt:notice] [pid 5468:tid 696] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 08:39:47.095159 2025] [core:warn] [pid 3684:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 08:39:47.641856 2025] [mpm_winnt:notice] [pid 3684:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 08:39:47.673062 2025] [mpm_winnt:notice] [pid 3684:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 08:39:47.673062 2025] [core:notice] [pid 3684:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 08:39:47.673062 2025] [mpm_winnt:notice] [pid 3684:tid 612] AH00418: Parent: Created child process 5856
+[Thu Apr 17 08:39:49.735078 2025] [mpm_winnt:notice] [pid 5856:tid 736] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 14:04:58.401918 2025] [core:warn] [pid 3888:tid 600] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 14:04:58.761207 2025] [mpm_winnt:notice] [pid 3888:tid 600] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 14:04:58.761207 2025] [mpm_winnt:notice] [pid 3888:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 14:04:58.761207 2025] [core:notice] [pid 3888:tid 600] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 14:04:58.761207 2025] [mpm_winnt:notice] [pid 3888:tid 600] AH00418: Parent: Created child process 5680
+[Thu Apr 17 14:05:01.838607 2025] [mpm_winnt:notice] [pid 5680:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 17 17:37:48.659615 2025] [core:warn] [pid 3564:tid 588] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 17 17:37:49.065747 2025] [mpm_winnt:notice] [pid 3564:tid 588] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 17 17:37:49.065747 2025] [mpm_winnt:notice] [pid 3564:tid 588] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 17 17:37:49.065747 2025] [core:notice] [pid 3564:tid 588] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 17 17:37:49.065747 2025] [mpm_winnt:notice] [pid 3564:tid 588] AH00418: Parent: Created child process 5532
+[Thu Apr 17 17:37:50.284208 2025] [mpm_winnt:notice] [pid 5532:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 18 07:40:15.214527 2025] [core:warn] [pid 3992:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 18 07:40:16.917279 2025] [mpm_winnt:notice] [pid 3992:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Apr 18 07:40:16.917279 2025] [mpm_winnt:notice] [pid 3992:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Apr 18 07:40:16.917279 2025] [core:notice] [pid 3992:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Apr 18 07:40:16.917279 2025] [mpm_winnt:notice] [pid 3992:tid 624] AH00418: Parent: Created child process 5976
+[Fri Apr 18 07:40:17.995150 2025] [mpm_winnt:notice] [pid 5976:tid 660] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 21 20:00:34.649990 2025] [core:warn] [pid 3956:tid 632] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 21 20:00:35.056144 2025] [mpm_winnt:notice] [pid 3956:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon Apr 21 20:00:35.056144 2025] [mpm_winnt:notice] [pid 3956:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon Apr 21 20:00:35.056144 2025] [core:notice] [pid 3956:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon Apr 21 20:00:35.056144 2025] [mpm_winnt:notice] [pid 3956:tid 632] AH00418: Parent: Created child process 5824
+[Mon Apr 21 20:00:41.898278 2025] [mpm_winnt:notice] [pid 5824:tid 676] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 22 06:15:49.827483 2025] [core:warn] [pid 3756:tid 616] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 22 06:15:50.311745 2025] [mpm_winnt:notice] [pid 3756:tid 616] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 22 06:15:50.311745 2025] [mpm_winnt:notice] [pid 3756:tid 616] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 22 06:15:50.311745 2025] [core:notice] [pid 3756:tid 616] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 22 06:15:50.327366 2025] [mpm_winnt:notice] [pid 3756:tid 616] AH00418: Parent: Created child process 5624
+[Tue Apr 22 06:15:50.764773 2025] [mpm_winnt:notice] [pid 5624:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 24 20:02:06.953586 2025] [core:warn] [pid 2088:tid 600] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 24 20:02:13.842588 2025] [mpm_winnt:notice] [pid 2088:tid 600] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Apr 24 20:02:13.842588 2025] [mpm_winnt:notice] [pid 2088:tid 600] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Apr 24 20:02:13.842588 2025] [core:notice] [pid 2088:tid 600] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Apr 24 20:02:13.842588 2025] [mpm_winnt:notice] [pid 2088:tid 600] AH00418: Parent: Created child process 5880
+[Thu Apr 24 20:02:16.670033 2025] [mpm_winnt:notice] [pid 5880:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 25 20:01:23.513022 2025] [core:warn] [pid 4668:tid 708] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 25 20:01:43.181655 2025] [mpm_winnt:notice] [pid 4668:tid 708] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Apr 25 20:01:43.181655 2025] [mpm_winnt:notice] [pid 4668:tid 708] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Apr 25 20:01:43.181655 2025] [core:notice] [pid 4668:tid 708] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Apr 25 20:01:43.181655 2025] [mpm_winnt:notice] [pid 4668:tid 708] AH00418: Parent: Created child process 6036
+[Fri Apr 25 20:01:48.102370 2025] [mpm_winnt:notice] [pid 6036:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sat Apr 26 20:49:55.434363 2025] [core:warn] [pid 3960:tid 592] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 26 20:49:58.543010 2025] [mpm_winnt:notice] [pid 3960:tid 592] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Apr 26 20:49:58.543010 2025] [mpm_winnt:notice] [pid 3960:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Apr 26 20:49:58.543010 2025] [core:notice] [pid 3960:tid 592] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Apr 26 20:49:58.543010 2025] [mpm_winnt:notice] [pid 3960:tid 592] AH00418: Parent: Created child process 6440
+[Sat Apr 26 20:50:05.353898 2025] [mpm_winnt:notice] [pid 6440:tid 744] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 27 07:52:47.463418 2025] [core:warn] [pid 3744:tid 412] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 27 07:52:47.682117 2025] [mpm_winnt:notice] [pid 3744:tid 412] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Apr 27 07:52:47.682117 2025] [mpm_winnt:notice] [pid 3744:tid 412] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Apr 27 07:52:47.682117 2025] [core:notice] [pid 3744:tid 412] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Apr 27 07:52:47.697737 2025] [mpm_winnt:notice] [pid 3744:tid 412] AH00418: Parent: Created child process 5332
+[Sun Apr 27 07:52:48.088271 2025] [mpm_winnt:notice] [pid 5332:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 27 22:07:35.427083 2025] [mpm_winnt:notice] [pid 3744:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 27 22:07:37.454142 2025] [mpm_winnt:notice] [pid 5332:tid 660] AH00364: Child: All worker threads have exited.
+[Sun Apr 27 22:07:37.485385 2025] [mpm_winnt:notice] [pid 3744:tid 412] AH00430: Parent: Child process 5332 exited successfully.
+[Sun Apr 27 22:08:00.192620 2025] [mpm_winnt:notice] [pid 3844:tid 720] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Apr 27 22:08:00.208242 2025] [mpm_winnt:notice] [pid 3844:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Apr 27 22:08:00.208242 2025] [core:notice] [pid 3844:tid 720] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Apr 27 22:08:00.208242 2025] [mpm_winnt:notice] [pid 3844:tid 720] AH00418: Parent: Created child process 5796
+[Sun Apr 27 22:08:04.832155 2025] [mpm_winnt:notice] [pid 5796:tid 712] AH00354: Child: Starting 64 worker threads.
+[Sun Apr 27 22:08:09.862223 2025] [mpm_winnt:notice] [pid 3844:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 27 22:08:11.877846 2025] [mpm_winnt:notice] [pid 5796:tid 712] AH00364: Child: All worker threads have exited.
+[Sun Apr 27 22:08:11.910684 2025] [mpm_winnt:notice] [pid 3844:tid 720] AH00430: Parent: Child process 5796 exited successfully.
+[Tue Apr 29 20:55:09.123313 2025] [mpm_winnt:notice] [pid 3964:tid 796] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 29 20:55:09.123313 2025] [mpm_winnt:notice] [pid 3964:tid 796] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 29 20:55:09.123313 2025] [core:notice] [pid 3964:tid 796] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 29 20:55:09.123313 2025] [mpm_winnt:notice] [pid 3964:tid 796] AH00418: Parent: Created child process 5976
+[Tue Apr 29 20:55:09.701303 2025] [mpm_winnt:notice] [pid 5976:tid 704] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 30 20:38:35.199269 2025] [core:warn] [pid 3484:tid 624] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 30 20:38:35.417968 2025] [mpm_winnt:notice] [pid 3484:tid 624] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Apr 30 20:38:35.417968 2025] [mpm_winnt:notice] [pid 3484:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Apr 30 20:38:35.417968 2025] [core:notice] [pid 3484:tid 624] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Apr 30 20:38:35.417968 2025] [mpm_winnt:notice] [pid 3484:tid 624] AH00418: Parent: Created child process 6996
+[Wed Apr 30 20:38:35.777259 2025] [mpm_winnt:notice] [pid 6996:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri May 02 23:46:01.047177 2025] [core:warn] [pid 4284:tid 664] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 02 23:46:01.562682 2025] [mpm_winnt:notice] [pid 4284:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri May 02 23:46:01.562682 2025] [mpm_winnt:notice] [pid 4284:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri May 02 23:46:01.562682 2025] [core:notice] [pid 4284:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri May 02 23:46:01.562682 2025] [mpm_winnt:notice] [pid 4284:tid 664] AH00418: Parent: Created child process 6976
+[Fri May 02 23:46:03.187300 2025] [mpm_winnt:notice] [pid 6976:tid 760] AH00354: Child: Starting 64 worker threads.
+[Sat May 03 06:52:56.634615 2025] [core:warn] [pid 4000:tid 596] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 03 06:52:57.290711 2025] [mpm_winnt:notice] [pid 4000:tid 596] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat May 03 06:52:57.290711 2025] [mpm_winnt:notice] [pid 4000:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat May 03 06:52:57.290711 2025] [core:notice] [pid 4000:tid 596] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat May 03 06:52:58.556039 2025] [mpm_winnt:notice] [pid 4000:tid 596] AH00418: Parent: Created child process 6436
+[Sat May 03 06:53:00.446243 2025] [mpm_winnt:notice] [pid 6436:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sun May 04 07:17:41.758213 2025] [core:warn] [pid 3704:tid 576] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 04 07:17:42.226815 2025] [mpm_winnt:notice] [pid 3704:tid 576] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun May 04 07:17:42.226815 2025] [mpm_winnt:notice] [pid 3704:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun May 04 07:17:42.226815 2025] [core:notice] [pid 3704:tid 576] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun May 04 07:17:42.226815 2025] [mpm_winnt:notice] [pid 3704:tid 576] AH00418: Parent: Created child process 5708
+[Sun May 04 07:17:45.616643 2025] [mpm_winnt:notice] [pid 5708:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun May 04 17:03:29.761915 2025] [core:warn] [pid 2500:tid 596] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 04 17:03:30.121113 2025] [mpm_winnt:notice] [pid 2500:tid 596] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun May 04 17:03:30.121113 2025] [mpm_winnt:notice] [pid 2500:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun May 04 17:03:30.121113 2025] [core:notice] [pid 2500:tid 596] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun May 04 17:03:30.121113 2025] [mpm_winnt:notice] [pid 2500:tid 596] AH00418: Parent: Created child process 6436
+[Sun May 04 17:03:32.214372 2025] [mpm_winnt:notice] [pid 6436:tid 536] AH00354: Child: Starting 64 worker threads.
+[Mon May 05 21:07:08.195685 2025] [core:warn] [pid 3864:tid 592] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 05 21:07:09.304801 2025] [mpm_winnt:notice] [pid 3864:tid 592] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon May 05 21:07:09.304801 2025] [mpm_winnt:notice] [pid 3864:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon May 05 21:07:09.304801 2025] [core:notice] [pid 3864:tid 592] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon May 05 21:07:09.304801 2025] [mpm_winnt:notice] [pid 3864:tid 592] AH00418: Parent: Created child process 6372
+[Mon May 05 21:07:09.726577 2025] [mpm_winnt:notice] [pid 6372:tid 664] AH00354: Child: Starting 64 worker threads.
+[Mon May 05 22:39:56.115533 2025] [mpm_winnt:notice] [pid 3864:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 05 22:39:58.142753 2025] [mpm_winnt:notice] [pid 6372:tid 664] AH00364: Child: All worker threads have exited.
+[Mon May 05 22:39:58.158374 2025] [mpm_winnt:notice] [pid 3864:tid 592] AH00430: Parent: Child process 6372 exited successfully.
+[Tue May 06 20:37:39.204312 2025] [mpm_winnt:notice] [pid 3996:tid 736] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue May 06 20:37:39.204312 2025] [mpm_winnt:notice] [pid 3996:tid 736] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue May 06 20:37:39.204312 2025] [core:notice] [pid 3996:tid 736] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue May 06 20:37:39.204312 2025] [mpm_winnt:notice] [pid 3996:tid 736] AH00418: Parent: Created child process 6420
+[Tue May 06 20:37:39.610466 2025] [mpm_winnt:notice] [pid 6420:tid 680] AH00354: Child: Starting 64 worker threads.
+[Wed May 07 04:38:12.303154 2025] [mpm_winnt:notice] [pid 3996:tid 736] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 07 04:38:14.333406 2025] [mpm_winnt:notice] [pid 6420:tid 680] AH00364: Child: All worker threads have exited.
+[Wed May 07 04:38:14.349021 2025] [mpm_winnt:notice] [pid 3996:tid 736] AH00430: Parent: Child process 6420 exited successfully.
+[Wed May 07 07:18:34.451978 2025] [mpm_winnt:notice] [pid 4012:tid 784] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed May 07 07:18:34.451978 2025] [mpm_winnt:notice] [pid 4012:tid 784] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed May 07 07:18:34.451978 2025] [core:notice] [pid 4012:tid 784] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed May 07 07:18:34.451978 2025] [mpm_winnt:notice] [pid 4012:tid 784] AH00418: Parent: Created child process 6764
+[Wed May 07 07:18:34.795648 2025] [mpm_winnt:notice] [pid 6764:tid 700] AH00354: Child: Starting 64 worker threads.
+[Sun May 11 08:03:00.330022 2025] [core:warn] [pid 4268:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 11 08:03:02.485762 2025] [mpm_winnt:notice] [pid 4268:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun May 11 08:03:02.485762 2025] [mpm_winnt:notice] [pid 4268:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun May 11 08:03:02.485762 2025] [core:notice] [pid 4268:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun May 11 08:03:02.595110 2025] [mpm_winnt:notice] [pid 4268:tid 620] AH00418: Parent: Created child process 2432
+[Sun May 11 08:03:04.219725 2025] [mpm_winnt:notice] [pid 2432:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed May 14 21:09:31.537698 2025] [core:warn] [pid 3852:tid 604] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 14 21:09:32.584326 2025] [mpm_winnt:notice] [pid 3852:tid 604] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed May 14 21:09:32.584326 2025] [mpm_winnt:notice] [pid 3852:tid 604] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed May 14 21:09:32.584326 2025] [core:notice] [pid 3852:tid 604] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed May 14 21:09:32.584326 2025] [mpm_winnt:notice] [pid 3852:tid 604] AH00418: Parent: Created child process 5988
+[Wed May 14 21:09:41.082322 2025] [mpm_winnt:notice] [pid 5988:tid 528] AH00354: Child: Starting 64 worker threads.
+[Thu May 15 20:17:22.148599 2025] [core:warn] [pid 3860:tid 608] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 15 20:17:22.492274 2025] [mpm_winnt:notice] [pid 3860:tid 608] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu May 15 20:17:22.492274 2025] [mpm_winnt:notice] [pid 3860:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu May 15 20:17:22.507915 2025] [core:notice] [pid 3860:tid 608] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu May 15 20:17:22.507915 2025] [mpm_winnt:notice] [pid 3860:tid 608] AH00418: Parent: Created child process 5548
+[Thu May 15 20:17:22.914045 2025] [mpm_winnt:notice] [pid 5548:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu May 15 23:56:07.934286 2025] [mpm_winnt:notice] [pid 3860:tid 608] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 15 23:56:09.952981 2025] [mpm_winnt:notice] [pid 5548:tid 660] AH00364: Child: All worker threads have exited.
+[Thu May 15 23:56:09.984224 2025] [mpm_winnt:notice] [pid 3860:tid 608] AH00430: Parent: Child process 5548 exited successfully.
+[Thu May 15 23:56:40.634001 2025] [mpm_winnt:notice] [pid 3808:tid 700] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu May 15 23:56:41.040248 2025] [mpm_winnt:notice] [pid 3808:tid 700] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu May 15 23:56:41.040248 2025] [core:notice] [pid 3808:tid 700] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu May 15 23:56:41.040248 2025] [mpm_winnt:notice] [pid 3808:tid 700] AH00418: Parent: Created child process 5468
+[Thu May 15 23:56:52.193772 2025] [mpm_winnt:notice] [pid 5468:tid 672] AH00354: Child: Starting 64 worker threads.
+[Fri May 16 21:15:14.528887 2025] [core:warn] [pid 3872:tid 632] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 16 21:15:16.200368 2025] [mpm_winnt:notice] [pid 3872:tid 632] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri May 16 21:15:16.200368 2025] [mpm_winnt:notice] [pid 3872:tid 632] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri May 16 21:15:16.200368 2025] [core:notice] [pid 3872:tid 632] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri May 16 21:15:16.200368 2025] [mpm_winnt:notice] [pid 3872:tid 632] AH00418: Parent: Created child process 6000
+[Fri May 16 21:15:22.948772 2025] [mpm_winnt:notice] [pid 6000:tid 732] AH00354: Child: Starting 64 worker threads.
+[Sun May 18 20:55:55.877812 2025] [core:warn] [pid 4108:tid 720] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 18 20:55:56.971216 2025] [mpm_winnt:notice] [pid 4108:tid 720] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun May 18 20:55:56.971216 2025] [mpm_winnt:notice] [pid 4108:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun May 18 20:55:56.971216 2025] [core:notice] [pid 4108:tid 720] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun May 18 20:55:56.971216 2025] [mpm_winnt:notice] [pid 4108:tid 720] AH00418: Parent: Created child process 7372
+[Sun May 18 20:55:57.658555 2025] [mpm_winnt:notice] [pid 7372:tid 152] AH00354: Child: Starting 64 worker threads.
+[Mon May 19 23:37:52.166420 2025] [core:warn] [pid 3844:tid 584] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 19 23:37:52.728789 2025] [mpm_winnt:notice] [pid 3844:tid 584] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon May 19 23:37:52.728789 2025] [mpm_winnt:notice] [pid 3844:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon May 19 23:37:52.728789 2025] [core:notice] [pid 3844:tid 584] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon May 19 23:37:52.728789 2025] [mpm_winnt:notice] [pid 3844:tid 584] AH00418: Parent: Created child process 5904
+[Mon May 19 23:37:56.165483 2025] [mpm_winnt:notice] [pid 5904:tid 588] AH00354: Child: Starting 64 worker threads.
+[Sun May 25 21:00:54.919773 2025] [mpm_winnt:notice] [pid 3844:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 25 21:00:56.939169 2025] [mpm_winnt:notice] [pid 5904:tid 588] AH00364: Child: All worker threads have exited.
+[Sun May 25 21:00:56.986037 2025] [mpm_winnt:notice] [pid 3844:tid 584] AH00430: Parent: Child process 5904 exited successfully.
+[Sun May 25 21:01:30.649419 2025] [mpm_winnt:notice] [pid 3412:tid 596] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun May 25 21:01:30.680663 2025] [mpm_winnt:notice] [pid 3412:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun May 25 21:01:30.680663 2025] [core:notice] [pid 3412:tid 596] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun May 25 21:01:30.680663 2025] [mpm_winnt:notice] [pid 3412:tid 596] AH00418: Parent: Created child process 6648
+[Sun May 25 21:01:31.664805 2025] [mpm_winnt:notice] [pid 6648:tid 704] AH00354: Child: Starting 64 worker threads.
+[Sun May 25 21:02:24.328968 2025] [mpm_winnt:notice] [pid 3412:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 25 21:02:26.344581 2025] [mpm_winnt:notice] [pid 6648:tid 704] AH00364: Child: All worker threads have exited.
+[Sun May 25 21:02:26.375825 2025] [mpm_winnt:notice] [pid 3412:tid 596] AH00430: Parent: Child process 6648 exited successfully.
+[Mon May 26 22:07:56.698260 2025] [mpm_winnt:notice] [pid 4148:tid 724] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Mon May 26 22:07:56.698260 2025] [mpm_winnt:notice] [pid 4148:tid 724] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Mon May 26 22:07:56.698260 2025] [core:notice] [pid 4148:tid 724] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Mon May 26 22:07:56.698260 2025] [mpm_winnt:notice] [pid 4148:tid 724] AH00418: Parent: Created child process 5768
+[Mon May 26 22:07:58.494716 2025] [mpm_winnt:notice] [pid 5768:tid 636] AH00354: Child: Starting 64 worker threads.
+[Mon May 26 23:48:27.746341 2025] [mpm_winnt:notice] [pid 4148:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 26 23:48:29.760548 2025] [mpm_winnt:notice] [pid 5768:tid 636] AH00364: Child: All worker threads have exited.
+[Mon May 26 23:48:29.791792 2025] [mpm_winnt:notice] [pid 4148:tid 724] AH00430: Parent: Child process 5768 exited successfully.
+[Tue May 27 20:04:47.995028 2025] [mpm_winnt:notice] [pid 4084:tid 696] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue May 27 20:04:48.135622 2025] [mpm_winnt:notice] [pid 4084:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue May 27 20:04:48.135622 2025] [core:notice] [pid 4084:tid 696] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue May 27 20:04:48.135622 2025] [mpm_winnt:notice] [pid 4084:tid 696] AH00418: Parent: Created child process 5984
+[Tue May 27 20:04:49.166626 2025] [mpm_winnt:notice] [pid 5984:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed May 28 00:23:27.485783 2025] [mpm_winnt:notice] [pid 4084:tid 696] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 28 00:23:29.495046 2025] [mpm_winnt:notice] [pid 5984:tid 664] AH00364: Child: All worker threads have exited.
+[Wed May 28 00:23:29.526196 2025] [mpm_winnt:notice] [pid 4084:tid 696] AH00430: Parent: Child process 5984 exited successfully.
+[Wed May 28 21:50:35.028779 2025] [mpm_winnt:notice] [pid 3816:tid 724] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed May 28 21:50:35.028779 2025] [mpm_winnt:notice] [pid 3816:tid 724] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed May 28 21:50:35.028779 2025] [core:notice] [pid 3816:tid 724] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed May 28 21:50:35.028779 2025] [mpm_winnt:notice] [pid 3816:tid 724] AH00418: Parent: Created child process 5704
+[Wed May 28 21:50:36.981450 2025] [mpm_winnt:notice] [pid 5704:tid 752] AH00354: Child: Starting 64 worker threads.
+[Thu May 29 23:52:05.789106 2025] [mpm_winnt:notice] [pid 3816:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 29 23:52:07.890704 2025] [mpm_winnt:notice] [pid 5704:tid 752] AH00364: Child: All worker threads have exited.
+[Thu May 29 23:52:07.937556 2025] [mpm_winnt:notice] [pid 3816:tid 724] AH00430: Parent: Child process 5704 exited successfully.
+[Sun Jun 01 08:02:37.676818 2025] [mpm_winnt:notice] [pid 4036:tid 772] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jun 01 08:02:37.755007 2025] [mpm_winnt:notice] [pid 4036:tid 772] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jun 01 08:02:37.755007 2025] [core:notice] [pid 4036:tid 772] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jun 01 08:02:37.755007 2025] [mpm_winnt:notice] [pid 4036:tid 772] AH00418: Parent: Created child process 6072
+[Sun Jun 01 08:02:39.192088 2025] [mpm_winnt:notice] [pid 6072:tid 792] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 01 09:20:18.708613 2025] [mpm_winnt:notice] [pid 4036:tid 772] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jun 01 09:20:20.720187 2025] [mpm_winnt:notice] [pid 6072:tid 792] AH00364: Child: All worker threads have exited.
+[Sun Jun 01 09:20:20.751430 2025] [mpm_winnt:notice] [pid 4036:tid 772] AH00430: Parent: Child process 6072 exited successfully.
+[Sun Jun 01 14:52:41.270816 2025] [mpm_winnt:notice] [pid 3928:tid 664] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jun 01 14:52:41.270816 2025] [mpm_winnt:notice] [pid 3928:tid 664] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jun 01 14:52:41.270816 2025] [core:notice] [pid 3928:tid 664] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jun 01 14:52:41.286460 2025] [mpm_winnt:notice] [pid 3928:tid 664] AH00418: Parent: Created child process 6064
+[Sun Jun 01 14:52:41.770699 2025] [mpm_winnt:notice] [pid 6064:tid 488] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 01 21:18:34.192162 2025] [mpm_winnt:notice] [pid 3928:tid 664] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jun 01 21:18:36.204370 2025] [mpm_winnt:notice] [pid 6064:tid 488] AH00364: Child: All worker threads have exited.
+[Sun Jun 01 21:18:36.220075 2025] [mpm_winnt:notice] [pid 3928:tid 664] AH00430: Parent: Child process 6064 exited successfully.
+[Fri Jun 06 10:13:25.317966 2025] [mpm_winnt:notice] [pid 4004:tid 576] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jun 06 10:13:25.380455 2025] [mpm_winnt:notice] [pid 4004:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jun 06 10:13:25.380455 2025] [core:notice] [pid 4004:tid 576] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jun 06 10:13:25.380455 2025] [mpm_winnt:notice] [pid 4004:tid 576] AH00418: Parent: Created child process 5072
+[Fri Jun 06 10:13:26.489568 2025] [mpm_winnt:notice] [pid 5072:tid 676] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 07 20:37:22.746295 2025] [core:warn] [pid 2376:tid 612] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 07 20:37:23.964668 2025] [mpm_winnt:notice] [pid 2376:tid 612] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jun 07 20:37:23.964668 2025] [mpm_winnt:notice] [pid 2376:tid 612] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jun 07 20:37:23.964668 2025] [core:notice] [pid 2376:tid 612] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jun 07 20:37:26.026712 2025] [mpm_winnt:notice] [pid 2376:tid 612] AH00418: Parent: Created child process 6332
+[Sat Jun 07 20:37:28.541719 2025] [mpm_winnt:notice] [pid 6332:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 07 23:30:48.733442 2025] [mpm_winnt:notice] [pid 2376:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 07 23:30:50.749878 2025] [mpm_winnt:notice] [pid 6332:tid 660] AH00364: Child: All worker threads have exited.
+[Sat Jun 07 23:30:50.765586 2025] [mpm_winnt:notice] [pid 2376:tid 612] AH00430: Parent: Child process 6332 exited successfully.
+[Sun Jun 08 15:57:50.249653 2025] [mpm_winnt:notice] [pid 4192:tid 716] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jun 08 15:57:50.249653 2025] [mpm_winnt:notice] [pid 4192:tid 716] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jun 08 15:57:50.249653 2025] [core:notice] [pid 4192:tid 716] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jun 08 15:57:50.280895 2025] [mpm_winnt:notice] [pid 4192:tid 716] AH00418: Parent: Created child process 6620
+[Sun Jun 08 15:57:51.530601 2025] [mpm_winnt:notice] [pid 6620:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 08 21:21:53.618325 2025] [mpm_winnt:notice] [pid 4192:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jun 08 21:21:55.656735 2025] [mpm_winnt:notice] [pid 6620:tid 664] AH00364: Child: All worker threads have exited.
+[Sun Jun 08 21:21:55.672359 2025] [mpm_winnt:notice] [pid 4192:tid 716] AH00430: Parent: Child process 6620 exited successfully.
+[Tue Jun 10 20:35:39.453532 2025] [mpm_winnt:notice] [pid 4016:tid 560] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Jun 10 20:35:39.453532 2025] [mpm_winnt:notice] [pid 4016:tid 560] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Jun 10 20:35:39.453532 2025] [core:notice] [pid 4016:tid 560] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Jun 10 20:35:39.453532 2025] [mpm_winnt:notice] [pid 4016:tid 560] AH00418: Parent: Created child process 6120
+[Tue Jun 10 20:35:40.906314 2025] [mpm_winnt:notice] [pid 6120:tid 668] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 10 23:01:27.182614 2025] [mpm_winnt:notice] [pid 4016:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 10 23:01:29.210517 2025] [mpm_winnt:notice] [pid 6120:tid 668] AH00364: Child: All worker threads have exited.
+[Tue Jun 10 23:01:29.241758 2025] [mpm_winnt:notice] [pid 4016:tid 560] AH00430: Parent: Child process 6120 exited successfully.
+[Wed Jun 11 22:46:13.278738 2025] [mpm_winnt:notice] [pid 4128:tid 168] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jun 11 22:46:13.481815 2025] [mpm_winnt:notice] [pid 4128:tid 168] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jun 11 22:46:13.481815 2025] [core:notice] [pid 4128:tid 168] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jun 11 22:46:13.481815 2025] [mpm_winnt:notice] [pid 4128:tid 168] AH00418: Parent: Created child process 4484
+[Wed Jun 11 22:46:15.293806 2025] [mpm_winnt:notice] [pid 4484:tid 664] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 13 00:10:56.105598 2025] [mpm_winnt:notice] [pid 4128:tid 168] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 13 00:10:58.124269 2025] [mpm_winnt:notice] [pid 4484:tid 664] AH00364: Child: All worker threads have exited.
+[Fri Jun 13 00:10:58.233618 2025] [mpm_winnt:notice] [pid 4128:tid 168] AH00430: Parent: Child process 4484 exited successfully.
+[Fri Jun 13 00:11:26.952698 2025] [mpm_winnt:notice] [pid 3672:tid 724] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jun 13 00:11:26.952698 2025] [mpm_winnt:notice] [pid 3672:tid 724] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jun 13 00:11:26.952698 2025] [core:notice] [pid 3672:tid 724] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jun 13 00:11:26.968319 2025] [mpm_winnt:notice] [pid 3672:tid 724] AH00418: Parent: Created child process 2296
+[Fri Jun 13 00:11:27.733766 2025] [mpm_winnt:notice] [pid 2296:tid 492] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 14 05:46:17.351912 2025] [mpm_winnt:notice] [pid 3672:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 14 05:46:19.358638 2025] [mpm_winnt:notice] [pid 2296:tid 492] AH00364: Child: All worker threads have exited.
+[Sat Jun 14 05:46:19.412194 2025] [mpm_winnt:notice] [pid 3672:tid 724] AH00430: Parent: Child process 2296 exited successfully.
+[Sat Jun 14 22:04:04.111859 2025] [mpm_winnt:notice] [pid 3852:tid 732] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jun 14 22:04:04.111859 2025] [mpm_winnt:notice] [pid 3852:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jun 14 22:04:04.111859 2025] [core:notice] [pid 3852:tid 732] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jun 14 22:04:04.127388 2025] [mpm_winnt:notice] [pid 3852:tid 732] AH00418: Parent: Created child process 6260
+[Sat Jun 14 22:04:04.924077 2025] [mpm_winnt:notice] [pid 6260:tid 736] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 15 08:43:23.693987 2025] [mpm_winnt:notice] [pid 3852:tid 732] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jun 15 08:43:25.705712 2025] [mpm_winnt:notice] [pid 6260:tid 736] AH00364: Child: All worker threads have exited.
+[Sun Jun 15 08:43:25.753100 2025] [mpm_winnt:notice] [pid 3852:tid 732] AH00430: Parent: Child process 6260 exited successfully.
+[Sun Jun 15 08:49:20.970444 2025] [mpm_winnt:notice] [pid 3876:tid 460] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jun 15 08:49:20.970444 2025] [mpm_winnt:notice] [pid 3876:tid 460] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jun 15 08:49:20.970444 2025] [core:notice] [pid 3876:tid 460] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jun 15 08:49:20.970444 2025] [mpm_winnt:notice] [pid 3876:tid 460] AH00418: Parent: Created child process 5840
+[Sun Jun 15 08:49:22.063908 2025] [mpm_winnt:notice] [pid 5840:tid 664] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 19 21:32:51.820137 2025] [core:warn] [pid 3612:tid 608] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 19 21:32:53.726001 2025] [mpm_winnt:notice] [pid 3612:tid 608] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Jun 19 21:32:53.726001 2025] [mpm_winnt:notice] [pid 3612:tid 608] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Jun 19 21:32:54.460205 2025] [core:notice] [pid 3612:tid 608] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Jun 19 21:32:54.460205 2025] [mpm_winnt:notice] [pid 3612:tid 608] AH00418: Parent: Created child process 5664
+[Thu Jun 19 21:33:01.130426 2025] [mpm_winnt:notice] [pid 5664:tid 680] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 21 21:17:19.516503 2025] [core:warn] [pid 3944:tid 544] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 21 21:17:20.859960 2025] [mpm_winnt:notice] [pid 3944:tid 544] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jun 21 21:17:20.859960 2025] [mpm_winnt:notice] [pid 3944:tid 544] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jun 21 21:17:20.859960 2025] [core:notice] [pid 3944:tid 544] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jun 21 21:17:20.875556 2025] [mpm_winnt:notice] [pid 3944:tid 544] AH00418: Parent: Created child process 6492
+[Sat Jun 21 21:17:22.875085 2025] [mpm_winnt:notice] [pid 6492:tid 728] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 22 15:28:49.367111 2025] [core:warn] [pid 4160:tid 576] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jun 22 15:28:50.819868 2025] [mpm_winnt:notice] [pid 4160:tid 576] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jun 22 15:28:50.819868 2025] [mpm_winnt:notice] [pid 4160:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jun 22 15:28:50.819868 2025] [core:notice] [pid 4160:tid 576] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jun 22 15:28:50.819868 2025] [mpm_winnt:notice] [pid 4160:tid 576] AH00418: Parent: Created child process 6100
+[Sun Jun 22 15:28:54.881414 2025] [mpm_winnt:notice] [pid 6100:tid 664] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 30 06:22:38.462666 2025] [mpm_winnt:notice] [pid 4160:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 30 06:22:40.502368 2025] [mpm_winnt:notice] [pid 6100:tid 664] AH00364: Child: All worker threads have exited.
+[Mon Jun 30 06:22:40.549232 2025] [mpm_winnt:notice] [pid 4160:tid 576] AH00430: Parent: Child process 6100 exited successfully.
+[Tue Jul 01 21:26:27.682027 2025] [mpm_winnt:notice] [pid 4004:tid 568] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Jul 01 21:26:27.682027 2025] [mpm_winnt:notice] [pid 4004:tid 568] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Jul 01 21:26:27.682027 2025] [core:notice] [pid 4004:tid 568] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Jul 01 21:26:27.682027 2025] [mpm_winnt:notice] [pid 4004:tid 568] AH00418: Parent: Created child process 1292
+[Tue Jul 01 21:26:30.415761 2025] [mpm_winnt:notice] [pid 1292:tid 676] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 03 20:51:02.810638 2025] [core:warn] [pid 4144:tid 672] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 03 20:51:03.560433 2025] [mpm_winnt:notice] [pid 4144:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Jul 03 20:51:03.560433 2025] [mpm_winnt:notice] [pid 4144:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Jul 03 20:51:03.560433 2025] [core:notice] [pid 4144:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Jul 03 20:51:03.560433 2025] [mpm_winnt:notice] [pid 4144:tid 672] AH00418: Parent: Created child process 7184
+[Thu Jul 03 20:51:05.653713 2025] [mpm_winnt:notice] [pid 7184:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 04 07:30:04.196434 2025] [mpm_winnt:notice] [pid 4144:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 04 07:30:06.220943 2025] [mpm_winnt:notice] [pid 7184:tid 660] AH00364: Child: All worker threads have exited.
+[Fri Jul 04 07:30:06.252256 2025] [mpm_winnt:notice] [pid 4144:tid 672] AH00430: Parent: Child process 7184 exited successfully.
+[Fri Jul 04 20:57:33.661616 2025] [mpm_winnt:notice] [pid 3864:tid 728] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jul 04 20:57:34.067858 2025] [mpm_winnt:notice] [pid 3864:tid 728] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jul 04 20:57:34.067858 2025] [core:notice] [pid 3864:tid 728] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jul 04 20:57:34.067858 2025] [mpm_winnt:notice] [pid 3864:tid 728] AH00418: Parent: Created child process 6040
+[Fri Jul 04 20:57:36.598428 2025] [mpm_winnt:notice] [pid 6040:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 09 17:30:16.419912 2025] [core:warn] [pid 4212:tid 628] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 09 17:30:17.341487 2025] [mpm_winnt:notice] [pid 4212:tid 628] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jul 09 17:30:17.341487 2025] [mpm_winnt:notice] [pid 4212:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jul 09 17:30:17.341487 2025] [core:notice] [pid 4212:tid 628] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jul 09 17:30:17.357106 2025] [mpm_winnt:notice] [pid 4212:tid 628] AH00418: Parent: Created child process 4192
+[Wed Jul 09 17:30:19.059830 2025] [mpm_winnt:notice] [pid 4192:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 12 09:06:19.915529 2025] [core:warn] [pid 4056:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 12 09:06:25.179929 2025] [mpm_winnt:notice] [pid 4056:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jul 12 09:06:25.179929 2025] [mpm_winnt:notice] [pid 4056:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jul 12 09:06:25.179929 2025] [core:notice] [pid 4056:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jul 12 09:06:25.179929 2025] [mpm_winnt:notice] [pid 4056:tid 620] AH00418: Parent: Created child process 7616
+[Sat Jul 12 09:06:25.539237 2025] [mpm_winnt:notice] [pid 7616:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 13 19:06:36.295840 2025] [core:warn] [pid 4056:tid 628] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 13 19:06:40.185464 2025] [mpm_winnt:notice] [pid 4056:tid 628] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jul 13 19:06:40.185464 2025] [mpm_winnt:notice] [pid 4056:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jul 13 19:06:40.185464 2025] [core:notice] [pid 4056:tid 628] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jul 13 19:06:40.185464 2025] [mpm_winnt:notice] [pid 4056:tid 628] AH00418: Parent: Created child process 6948
+[Sun Jul 13 19:06:42.731739 2025] [mpm_winnt:notice] [pid 6948:tid 660] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 16 10:28:17.414580 2025] [core:warn] [pid 4236:tid 628] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 16 10:28:20.085831 2025] [mpm_winnt:notice] [pid 4236:tid 628] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jul 16 10:28:20.085831 2025] [mpm_winnt:notice] [pid 4236:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jul 16 10:28:20.085831 2025] [core:notice] [pid 4236:tid 628] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jul 16 10:28:20.085831 2025] [mpm_winnt:notice] [pid 4236:tid 628] AH00418: Parent: Created child process 6412
+[Wed Jul 16 10:28:21.319918 2025] [mpm_winnt:notice] [pid 6412:tid 668] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 17 00:30:57.634193 2025] [mpm_winnt:notice] [pid 4236:tid 628] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 17 00:30:59.644193 2025] [mpm_winnt:notice] [pid 6412:tid 668] AH00364: Child: All worker threads have exited.
+[Thu Jul 17 00:30:59.675437 2025] [mpm_winnt:notice] [pid 4236:tid 628] AH00430: Parent: Child process 6412 exited successfully.
+[Thu Jul 17 00:31:33.415665 2025] [mpm_winnt:notice] [pid 3644:tid 740] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Thu Jul 17 00:31:33.431287 2025] [mpm_winnt:notice] [pid 3644:tid 740] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Thu Jul 17 00:31:33.431287 2025] [core:notice] [pid 3644:tid 740] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Thu Jul 17 00:31:33.431287 2025] [mpm_winnt:notice] [pid 3644:tid 740] AH00418: Parent: Created child process 5656
+[Thu Jul 17 00:31:35.633863 2025] [mpm_winnt:notice] [pid 5656:tid 660] AH00354: Child: Starting 64 worker threads.
+[Sun Jul 20 19:02:00.808893 2025] [core:warn] [pid 3820:tid 628] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 20 19:02:07.198027 2025] [mpm_winnt:notice] [pid 3820:tid 628] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sun Jul 20 19:02:07.198027 2025] [mpm_winnt:notice] [pid 3820:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Jul 20 19:02:07.198027 2025] [core:notice] [pid 3820:tid 628] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Jul 20 19:02:07.229270 2025] [mpm_winnt:notice] [pid 3820:tid 628] AH00418: Parent: Created child process 6444
+[Sun Jul 20 19:02:09.010105 2025] [mpm_winnt:notice] [pid 6444:tid 4] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 23 09:18:28.008893 2025] [core:warn] [pid 4036:tid 680] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 23 09:18:29.024343 2025] [mpm_winnt:notice] [pid 4036:tid 680] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jul 23 09:18:29.024343 2025] [mpm_winnt:notice] [pid 4036:tid 680] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jul 23 09:18:29.024343 2025] [core:notice] [pid 4036:tid 680] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jul 23 09:18:29.039880 2025] [mpm_winnt:notice] [pid 4036:tid 680] AH00418: Parent: Created child process 6084
+[Wed Jul 23 09:18:30.242723 2025] [mpm_winnt:notice] [pid 6084:tid 676] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 23 10:35:51.005235 2025] [core:warn] [pid 3840:tid 620] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 23 10:35:52.770501 2025] [mpm_winnt:notice] [pid 3840:tid 620] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Wed Jul 23 10:35:52.770501 2025] [mpm_winnt:notice] [pid 3840:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Wed Jul 23 10:35:52.770501 2025] [core:notice] [pid 3840:tid 620] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Wed Jul 23 10:35:52.770501 2025] [mpm_winnt:notice] [pid 3840:tid 620] AH00418: Parent: Created child process 5672
+[Wed Jul 23 10:35:53.160950 2025] [mpm_winnt:notice] [pid 5672:tid 660] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 25 21:36:12.073220 2025] [core:warn] [pid 3968:tid 672] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 25 21:36:13.276071 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Fri Jul 25 21:36:13.276071 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Fri Jul 25 21:36:13.276071 2025] [core:notice] [pid 3968:tid 672] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Fri Jul 25 21:36:13.276071 2025] [mpm_winnt:notice] [pid 3968:tid 672] AH00418: Parent: Created child process 6024
+[Fri Jul 25 21:36:14.869355 2025] [mpm_winnt:notice] [pid 6024:tid 672] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 26 09:18:47.331167 2025] [core:warn] [pid 4760:tid 592] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 26 09:18:50.221044 2025] [mpm_winnt:notice] [pid 4760:tid 592] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Sat Jul 26 09:18:50.221044 2025] [mpm_winnt:notice] [pid 4760:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sat Jul 26 09:18:50.221044 2025] [core:notice] [pid 4760:tid 592] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sat Jul 26 09:18:50.221044 2025] [mpm_winnt:notice] [pid 4760:tid 592] AH00418: Parent: Created child process 4352
+[Sat Jul 26 09:18:51.377000 2025] [mpm_winnt:notice] [pid 4352:tid 684] AH00354: Child: Starting 64 worker threads.

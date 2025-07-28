@@ -1,0 +1,78 @@
+[27-Apr-2025 03:20:34 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250427032026-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[27-Apr-2025 03:22:19 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250427032209-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 00:32:29 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728003221-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 00:55:47 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728003221-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:09:14 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:09:19 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:09:42 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:09:48 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:10:18 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:10:21 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:10:49 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: File "c:/dolibarr/dolibarr_documents/import/temp/20250728010810-Ejemplo_de_archivo_importación_produit_1.xlsx" does not exist. in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Reader\Xlsx.php(327): PhpOffice\PhpSpreadsheet\Shared\File::assertFile('c:/dolibarr/dol...')
+#1 C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_xlsx.modules.php(242): PhpOffice\PhpSpreadsheet\Reader\Xlsx->load('c:/dolibarr/dol...')
+#2 C:\dolibarr\www\dolibarr\htdocs\imports\import.php(833): ImportXlsx->import_open_file('c:/dolibarr/dol...', Object(Translate))
+#3 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\includes\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php on line 137
+[28-Jul-2025 01:27:52 UTC] PHP Warning:  : failed to open stream: No such file or directory in C:\dolibarr\www\dolibarr\htdocs\core\modules\import\import_csv.modules.php on line 191
